@@ -1,0 +1,39 @@
+STUDENT PERFORMANCE PREDICTION PROJECT
+
+Rows after cleaning: 1000
+Duplicate rows removed: 0
+Overall mean average score: 67.77
+
+Average score by gender:
+gender
+Female    69.57
+Male      65.84
+
+Average score by parental education:
+parental level of education
+Master'S Degree       73.60
+Bachelor'S Degree     71.92
+Associate'S Degree    69.57
+Some College          68.48
+Some High School      65.11
+High School           63.10
+
+Average score by test preparation:
+test preparation course
+Completed    72.67
+None         65.04
+
+Average score by lunch type:
+lunch
+Standard        70.84
+Free/Reduced    62.20
+
+MODEL COMPARISON:
+            Model    MAE   RMSE  R2 Score
+Linear Regression 10.490 13.402     0.162
+Gradient Boosting 10.832 13.999     0.086
+    Random Forest 11.515 14.850    -0.029
+    Decision Tree 11.808 15.183    -0.075
+
+CONCLUSION:
+The model with the lowest test RMSE was Linear Regression. Performance was evaluated using MAE, RMSE and R-squared. The predictions use student background variables only. The findings show associations, not proof of causation. Model performance should be interpreted using the measured test results and the limitations of the dataset.

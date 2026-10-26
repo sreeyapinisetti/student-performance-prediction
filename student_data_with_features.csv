@@ -1,0 +1,1001 @@
+gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score,average score,total score,performance category
+Female,Group B,Bachelor'S Degree,Standard,None,72.0,72.0,74.0,72.66666666666667,218.0,Good
+Female,Group C,Some College,Standard,Completed,69.0,90.0,88.0,82.33333333333333,247.0,Excellent
+Female,Group B,Master'S Degree,Standard,None,90.0,95.0,93.0,92.66666666666667,278.0,Excellent
+Male,Group A,Associate'S Degree,Free/Reduced,None,47.0,57.0,44.0,49.333333333333336,148.0,Average
+Male,Group C,Some College,Standard,None,76.0,78.0,75.0,76.33333333333333,229.0,Good
+Female,Group B,Associate'S Degree,Standard,None,71.0,83.0,78.0,77.33333333333333,232.0,Good
+Female,Group B,Some College,Standard,Completed,88.0,95.0,92.0,91.66666666666667,275.0,Excellent
+Male,Group B,Some College,Free/Reduced,None,40.0,43.0,39.0,40.666666666666664,122.0,Average
+Male,Group D,High School,Free/Reduced,Completed,64.0,64.0,67.0,65.0,195.0,Good
+Female,Group B,High School,Free/Reduced,None,38.0,60.0,50.0,49.333333333333336,148.0,Average
+Male,Group C,Associate'S Degree,Standard,None,58.0,54.0,52.0,54.666666666666664,164.0,Average
+Male,Group D,Associate'S Degree,Standard,None,40.0,52.0,43.0,45.0,135.0,Average
+Female,Group B,High School,Standard,None,65.0,81.0,73.0,73.0,219.0,Good
+Male,Group A,Some College,Standard,Completed,78.0,72.0,70.0,73.33333333333333,220.0,Good
+Female,Group A,Master'S Degree,Standard,None,50.0,53.0,58.0,53.666666666666664,161.0,Average
+Female,Group C,Some High School,Standard,None,69.0,75.0,78.0,74.0,222.0,Good
+Male,Group C,High School,Standard,None,88.0,89.0,86.0,87.66666666666667,263.0,Excellent
+Female,Group B,Some High School,Free/Reduced,None,18.0,32.0,28.0,26.0,78.0,Needs Improvement
+Male,Group C,Master'S Degree,Free/Reduced,Completed,46.0,42.0,46.0,44.666666666666664,134.0,Average
+Female,Group C,Associate'S Degree,Free/Reduced,None,54.0,58.0,61.0,57.666666666666664,173.0,Average
+Male,Group D,High School,Standard,None,66.0,69.0,63.0,66.0,198.0,Good
+Female,Group B,Some College,Free/Reduced,Completed,65.0,75.0,70.0,70.0,210.0,Good
+Male,Group D,Some College,Standard,None,44.0,54.0,53.0,50.333333333333336,151.0,Average
+Female,Group C,Some High School,Standard,None,69.0,73.0,73.0,71.66666666666667,215.0,Good
+Male,Group D,Bachelor'S Degree,Free/Reduced,Completed,74.0,71.0,80.0,75.0,225.0,Good
+Male,Group A,Master'S Degree,Free/Reduced,None,73.0,74.0,72.0,73.0,219.0,Good
+Male,Group B,Some College,Standard,None,69.0,54.0,55.0,59.333333333333336,178.0,Good
+Female,Group C,Bachelor'S Degree,Standard,None,67.0,69.0,75.0,70.33333333333333,211.0,Good
+Male,Group C,High School,Standard,None,70.0,70.0,65.0,68.33333333333333,205.0,Good
+Female,Group D,Master'S Degree,Standard,None,62.0,70.0,75.0,69.0,207.0,Good
+Female,Group D,Some College,Standard,None,69.0,74.0,74.0,72.33333333333333,217.0,Good
+Female,Group B,Some College,Standard,None,63.0,65.0,61.0,63.0,189.0,Good
+Female,Group E,Master'S Degree,Free/Reduced,None,56.0,72.0,65.0,64.33333333333333,193.0,Good
+Male,Group D,Some College,Standard,None,40.0,42.0,38.0,40.0,120.0,Average
+Male,Group E,Some College,Standard,None,97.0,87.0,82.0,88.66666666666667,266.0,Excellent
+Male,Group E,Associate'S Degree,Standard,Completed,81.0,81.0,79.0,80.33333333333333,241.0,Excellent
+Female,Group D,Associate'S Degree,Standard,None,74.0,81.0,83.0,79.33333333333333,238.0,Excellent
+Female,Group D,Some High School,Free/Reduced,None,50.0,64.0,59.0,57.666666666666664,173.0,Average
+Female,Group D,Associate'S Degree,Free/Reduced,Completed,75.0,90.0,88.0,84.33333333333333,253.0,Excellent
+Male,Group B,Associate'S Degree,Free/Reduced,None,57.0,56.0,57.0,56.666666666666664,170.0,Average
+Male,Group C,Associate'S Degree,Free/Reduced,None,55.0,61.0,54.0,56.666666666666664,170.0,Average
+Female,Group C,Associate'S Degree,Standard,None,58.0,73.0,68.0,66.33333333333333,199.0,Good
+Female,Group B,Associate'S Degree,Standard,None,53.0,58.0,65.0,58.666666666666664,176.0,Average
+Male,Group B,Some College,Free/Reduced,Completed,59.0,65.0,66.0,63.333333333333336,190.0,Good
+Female,Group E,Associate'S Degree,Free/Reduced,None,50.0,56.0,54.0,53.333333333333336,160.0,Average
+Male,Group B,Associate'S Degree,Standard,None,65.0,54.0,57.0,58.666666666666664,176.0,Average
+Female,Group A,Associate'S Degree,Standard,Completed,55.0,65.0,62.0,60.666666666666664,182.0,Good
+Female,Group C,High School,Standard,None,66.0,71.0,76.0,71.0,213.0,Good
+Female,Group D,Associate'S Degree,Free/Reduced,Completed,57.0,74.0,76.0,69.0,207.0,Good
+Male,Group C,High School,Standard,Completed,82.0,84.0,82.0,82.66666666666667,248.0,Excellent
+Male,Group E,Some College,Standard,None,53.0,55.0,48.0,52.0,156.0,Average
+Male,Group E,Associate'S Degree,Free/Reduced,Completed,77.0,69.0,68.0,71.33333333333333,214.0,Good
+Male,Group C,Some College,Standard,None,53.0,44.0,42.0,46.333333333333336,139.0,Average
+Male,Group D,High School,Standard,None,88.0,78.0,75.0,80.33333333333333,241.0,Excellent
+Female,Group C,Some High School,Free/Reduced,Completed,71.0,84.0,87.0,80.66666666666667,242.0,Excellent
+Female,Group C,High School,Free/Reduced,None,33.0,41.0,43.0,39.0,117.0,Needs Improvement
+Female,Group E,Associate'S Degree,Standard,Completed,82.0,85.0,86.0,84.33333333333333,253.0,Excellent
+Male,Group D,Associate'S Degree,Standard,None,52.0,55.0,49.0,52.0,156.0,Average
+Male,Group D,Some College,Standard,Completed,58.0,59.0,58.0,58.333333333333336,175.0,Average
+Female,Group C,Some High School,Free/Reduced,None,0.0,17.0,10.0,9.0,27.0,Needs Improvement
+Male,Group E,Bachelor'S Degree,Free/Reduced,Completed,79.0,74.0,72.0,75.0,225.0,Good
+Male,Group A,Some High School,Free/Reduced,None,39.0,39.0,34.0,37.333333333333336,112.0,Needs Improvement
+Male,Group A,Associate'S Degree,Free/Reduced,None,62.0,61.0,55.0,59.333333333333336,178.0,Good
+Female,Group C,Associate'S Degree,Standard,None,69.0,80.0,71.0,73.33333333333333,220.0,Good
+Female,Group D,Some High School,Standard,None,59.0,58.0,59.0,58.666666666666664,176.0,Average
+Male,Group B,Some High School,Standard,None,67.0,64.0,61.0,64.0,192.0,Good
+Male,Group D,Some High School,Free/Reduced,None,45.0,37.0,37.0,39.666666666666664,119.0,Average
+Female,Group C,Some College,Standard,None,60.0,72.0,74.0,68.66666666666667,206.0,Good
+Male,Group B,Associate'S Degree,Free/Reduced,None,61.0,58.0,56.0,58.333333333333336,175.0,Average
+Female,Group C,Associate'S Degree,Standard,None,39.0,64.0,57.0,53.333333333333336,160.0,Average
+Female,Group D,Some College,Free/Reduced,Completed,58.0,63.0,73.0,64.66666666666667,194.0,Good
+Male,Group D,Some College,Standard,Completed,63.0,55.0,63.0,60.333333333333336,181.0,Good
+Female,Group A,Associate'S Degree,Free/Reduced,None,41.0,51.0,48.0,46.666666666666664,140.0,Average
+Male,Group C,Some High School,Free/Reduced,None,61.0,57.0,56.0,58.0,174.0,Average
+Male,Group C,Some High School,Standard,None,49.0,49.0,41.0,46.333333333333336,139.0,Average
+Male,Group B,Associate'S Degree,Free/Reduced,None,44.0,41.0,38.0,41.0,123.0,Average
+Male,Group E,Some High School,Standard,None,30.0,26.0,22.0,26.0,78.0,Needs Improvement
+Male,Group A,Bachelor'S Degree,Standard,Completed,80.0,78.0,81.0,79.66666666666667,239.0,Excellent
+Female,Group D,Some High School,Standard,Completed,61.0,74.0,72.0,69.0,207.0,Good
+Female,Group E,Master'S Degree,Standard,None,62.0,68.0,68.0,66.0,198.0,Good
+Female,Group B,Associate'S Degree,Standard,None,47.0,49.0,50.0,48.666666666666664,146.0,Average
+Male,Group B,High School,Free/Reduced,None,49.0,45.0,45.0,46.333333333333336,139.0,Average
+Male,Group A,Some College,Free/Reduced,Completed,50.0,47.0,54.0,50.333333333333336,151.0,Average
+Male,Group E,Associate'S Degree,Standard,None,72.0,64.0,63.0,66.33333333333333,199.0,Good
+Male,Group D,High School,Free/Reduced,None,42.0,39.0,34.0,38.333333333333336,115.0,Needs Improvement
+Female,Group C,Some College,Standard,None,73.0,80.0,82.0,78.33333333333333,235.0,Good
+Female,Group C,Some College,Free/Reduced,None,76.0,83.0,88.0,82.33333333333333,247.0,Excellent
+Female,Group D,Associate'S Degree,Standard,None,71.0,71.0,74.0,72.0,216.0,Good
+Female,Group A,Some College,Standard,None,58.0,70.0,67.0,65.0,195.0,Good
+Female,Group D,Some High School,Standard,None,73.0,86.0,82.0,80.33333333333333,241.0,Excellent
+Female,Group C,Bachelor'S Degree,Standard,None,65.0,72.0,74.0,70.33333333333333,211.0,Good
+Male,Group C,High School,Free/Reduced,None,27.0,34.0,36.0,32.333333333333336,97.0,Needs Improvement
+Male,Group C,High School,Standard,None,71.0,79.0,71.0,73.66666666666667,221.0,Good
+Male,Group C,Associate'S Degree,Free/Reduced,Completed,43.0,45.0,50.0,46.0,138.0,Average
+Female,Group B,Some College,Standard,None,79.0,86.0,92.0,85.66666666666667,257.0,Excellent
+Male,Group C,Associate'S Degree,Free/Reduced,Completed,78.0,81.0,82.0,80.33333333333333,241.0,Excellent
+Male,Group B,Some High School,Standard,Completed,65.0,66.0,62.0,64.33333333333333,193.0,Good
+Female,Group E,Some College,Standard,Completed,63.0,72.0,70.0,68.33333333333333,205.0,Good
+Female,Group D,Some College,Free/Reduced,None,58.0,67.0,62.0,62.333333333333336,187.0,Good
+Female,Group D,Bachelor'S Degree,Standard,None,65.0,67.0,62.0,64.66666666666667,194.0,Good
+Male,Group B,Some College,Standard,None,79.0,67.0,67.0,71.0,213.0,Good
+Male,Group D,Bachelor'S Degree,Standard,Completed,68.0,74.0,74.0,72.0,216.0,Good
+Female,Group D,Associate'S Degree,Standard,None,85.0,91.0,89.0,88.33333333333333,265.0,Excellent
+Male,Group B,High School,Standard,Completed,60.0,44.0,47.0,50.333333333333336,151.0,Average
+Male,Group C,Some College,Standard,Completed,98.0,86.0,90.0,91.33333333333333,274.0,Excellent
+Female,Group C,Some College,Standard,None,58.0,67.0,72.0,65.66666666666667,197.0,Good
+Female,Group D,Master'S Degree,Standard,None,87.0,100.0,100.0,95.66666666666667,287.0,Excellent
+Male,Group E,Associate'S Degree,Standard,Completed,66.0,63.0,64.0,64.33333333333333,193.0,Good
+Female,Group B,Associate'S Degree,Free/Reduced,None,52.0,76.0,70.0,66.0,198.0,Good
+Female,Group B,Some High School,Standard,None,70.0,64.0,72.0,68.66666666666667,206.0,Good
+Female,Group D,Associate'S Degree,Free/Reduced,Completed,77.0,89.0,98.0,88.0,264.0,Excellent
+Male,Group C,High School,Standard,None,62.0,55.0,49.0,55.333333333333336,166.0,Average
+Male,Group A,Associate'S Degree,Standard,None,54.0,53.0,47.0,51.333333333333336,154.0,Average
+Female,Group D,Some College,Standard,None,51.0,58.0,54.0,54.333333333333336,163.0,Average
+Female,Group E,Bachelor'S Degree,Standard,Completed,99.0,100.0,100.0,99.66666666666667,299.0,Excellent
+Male,Group C,High School,Standard,None,84.0,77.0,74.0,78.33333333333333,235.0,Good
+Female,Group B,Bachelor'S Degree,Free/Reduced,None,75.0,85.0,82.0,80.66666666666667,242.0,Excellent
+Female,Group D,Bachelor'S Degree,Standard,None,78.0,82.0,79.0,79.66666666666667,239.0,Excellent
+Female,Group D,Some High School,Standard,None,51.0,63.0,61.0,58.333333333333336,175.0,Average
+Female,Group C,Some College,Standard,None,55.0,69.0,65.0,63.0,189.0,Good
+Female,Group C,Bachelor'S Degree,Standard,Completed,79.0,92.0,89.0,86.66666666666667,260.0,Excellent
+Male,Group B,Associate'S Degree,Standard,Completed,91.0,89.0,92.0,90.66666666666667,272.0,Excellent
+Female,Group C,Some College,Standard,Completed,88.0,93.0,93.0,91.33333333333333,274.0,Excellent
+Male,Group D,High School,Free/Reduced,None,63.0,57.0,56.0,58.666666666666664,176.0,Average
+Male,Group E,Some College,Standard,None,83.0,80.0,73.0,78.66666666666667,236.0,Good
+Female,Group B,High School,Standard,None,87.0,95.0,86.0,89.33333333333333,268.0,Excellent
+Male,Group B,Some High School,Standard,None,72.0,68.0,67.0,69.0,207.0,Good
+Male,Group D,Some College,Standard,Completed,65.0,77.0,74.0,72.0,216.0,Good
+Male,Group D,Master'S Degree,Standard,None,82.0,82.0,74.0,79.33333333333333,238.0,Excellent
+Female,Group A,Bachelor'S Degree,Standard,None,51.0,49.0,51.0,50.333333333333336,151.0,Average
+Male,Group D,Master'S Degree,Standard,None,89.0,84.0,82.0,85.0,255.0,Excellent
+Male,Group C,Some High School,Free/Reduced,Completed,53.0,37.0,40.0,43.333333333333336,130.0,Average
+Male,Group E,Some College,Free/Reduced,Completed,87.0,74.0,70.0,77.0,231.0,Good
+Female,Group C,Some College,Standard,Completed,75.0,81.0,84.0,80.0,240.0,Excellent
+Male,Group D,Bachelor'S Degree,Free/Reduced,Completed,74.0,79.0,75.0,76.0,228.0,Good
+Male,Group C,Bachelor'S Degree,Standard,None,58.0,55.0,48.0,53.666666666666664,161.0,Average
+Male,Group B,Some High School,Standard,Completed,51.0,54.0,41.0,48.666666666666664,146.0,Average
+Male,Group E,High School,Standard,None,70.0,55.0,56.0,60.333333333333336,181.0,Good
+Female,Group C,Associate'S Degree,Standard,None,59.0,66.0,67.0,64.0,192.0,Good
+Male,Group D,Some College,Standard,Completed,71.0,61.0,69.0,67.0,201.0,Good
+Female,Group D,Some High School,Standard,None,76.0,72.0,71.0,73.0,219.0,Good
+Female,Group C,Some College,Free/Reduced,None,59.0,62.0,64.0,61.666666666666664,185.0,Good
+Female,Group E,Some College,Free/Reduced,Completed,42.0,55.0,54.0,50.333333333333336,151.0,Average
+Male,Group A,High School,Standard,None,57.0,43.0,47.0,49.0,147.0,Average
+Male,Group D,Some College,Standard,None,88.0,73.0,78.0,79.66666666666667,239.0,Excellent
+Female,Group C,Some College,Free/Reduced,None,22.0,39.0,33.0,31.333333333333332,94.0,Needs Improvement
+Male,Group B,Some High School,Standard,None,88.0,84.0,75.0,82.33333333333333,247.0,Excellent
+Male,Group C,Associate'S Degree,Free/Reduced,None,73.0,68.0,66.0,69.0,207.0,Good
+Female,Group D,Bachelor'S Degree,Standard,Completed,68.0,75.0,81.0,74.66666666666667,224.0,Good
+Male,Group E,Associate'S Degree,Free/Reduced,Completed,100.0,100.0,93.0,97.66666666666667,293.0,Excellent
+Male,Group A,Some High School,Standard,Completed,62.0,67.0,69.0,66.0,198.0,Good
+Male,Group A,Bachelor'S Degree,Standard,None,77.0,67.0,68.0,70.66666666666667,212.0,Good
+Female,Group B,Associate'S Degree,Standard,Completed,59.0,70.0,66.0,65.0,195.0,Good
+Male,Group D,Bachelor'S Degree,Standard,None,54.0,49.0,47.0,50.0,150.0,Average
+Male,Group D,Some High School,Standard,None,62.0,67.0,61.0,63.333333333333336,190.0,Good
+Female,Group C,Some College,Standard,Completed,70.0,89.0,88.0,82.33333333333333,247.0,Excellent
+Female,Group E,High School,Free/Reduced,Completed,66.0,74.0,78.0,72.66666666666667,218.0,Good
+Male,Group B,Some College,Free/Reduced,None,60.0,60.0,60.0,60.0,180.0,Good
+Female,Group B,Associate'S Degree,Standard,Completed,61.0,86.0,87.0,78.0,234.0,Good
+Male,Group D,Associate'S Degree,Free/Reduced,None,66.0,62.0,64.0,64.0,192.0,Good
+Male,Group B,Associate'S Degree,Free/Reduced,Completed,82.0,78.0,74.0,78.0,234.0,Good
+Female,Group E,Some College,Free/Reduced,Completed,75.0,88.0,85.0,82.66666666666667,248.0,Excellent
+Male,Group B,Master'S Degree,Free/Reduced,None,49.0,53.0,52.0,51.333333333333336,154.0,Average
+Male,Group C,High School,Standard,None,52.0,53.0,49.0,51.333333333333336,154.0,Average
+Female,Group E,Master'S Degree,Standard,None,81.0,92.0,91.0,88.0,264.0,Excellent
+Female,Group C,Bachelor'S Degree,Standard,Completed,96.0,100.0,100.0,98.66666666666667,296.0,Excellent
+Male,Group C,High School,Free/Reduced,Completed,53.0,51.0,51.0,51.666666666666664,155.0,Average
+Female,Group B,Master'S Degree,Free/Reduced,Completed,58.0,76.0,78.0,70.66666666666667,212.0,Good
+Female,Group B,High School,Standard,Completed,68.0,83.0,78.0,76.33333333333333,229.0,Good
+Female,Group C,Some College,Free/Reduced,Completed,67.0,75.0,70.0,70.66666666666667,212.0,Good
+Male,Group A,High School,Standard,Completed,72.0,73.0,74.0,73.0,219.0,Good
+Male,Group E,Some High School,Standard,None,94.0,88.0,78.0,86.66666666666667,260.0,Excellent
+Female,Group D,Some College,Standard,None,79.0,86.0,81.0,82.0,246.0,Excellent
+Female,Group C,Associate'S Degree,Standard,None,63.0,67.0,70.0,66.66666666666667,200.0,Good
+Female,Group C,Bachelor'S Degree,Free/Reduced,Completed,43.0,51.0,54.0,49.333333333333336,148.0,Average
+Female,Group C,Master'S Degree,Standard,Completed,81.0,91.0,87.0,86.33333333333333,259.0,Excellent
+Female,Group B,High School,Free/Reduced,Completed,46.0,54.0,58.0,52.666666666666664,158.0,Average
+Female,Group C,Associate'S Degree,Standard,Completed,71.0,77.0,77.0,75.0,225.0,Good
+Female,Group B,Master'S Degree,Free/Reduced,Completed,52.0,70.0,62.0,61.333333333333336,184.0,Good
+Female,Group D,Some High School,Standard,Completed,97.0,100.0,100.0,99.0,297.0,Excellent
+Male,Group C,Master'S Degree,Free/Reduced,Completed,62.0,68.0,75.0,68.33333333333333,205.0,Good
+Female,Group C,Some College,Free/Reduced,None,46.0,64.0,66.0,58.666666666666664,176.0,Average
+Female,Group E,High School,Standard,None,50.0,50.0,47.0,49.0,147.0,Average
+Female,Group D,Associate'S Degree,Standard,None,65.0,69.0,70.0,68.0,204.0,Good
+Male,Group C,Some High School,Free/Reduced,Completed,45.0,52.0,49.0,48.666666666666664,146.0,Average
+Male,Group C,Associate'S Degree,Free/Reduced,Completed,65.0,67.0,65.0,65.66666666666667,197.0,Good
+Male,Group E,High School,Standard,None,80.0,76.0,65.0,73.66666666666667,221.0,Good
+Male,Group D,Some High School,Standard,Completed,62.0,66.0,68.0,65.33333333333333,196.0,Good
+Male,Group B,Some High School,Free/Reduced,None,48.0,52.0,45.0,48.333333333333336,145.0,Average
+Female,Group C,Bachelor'S Degree,Standard,None,77.0,88.0,87.0,84.0,252.0,Excellent
+Female,Group E,Associate'S Degree,Standard,None,66.0,65.0,69.0,66.66666666666667,200.0,Good
+Male,Group D,Some College,Standard,Completed,76.0,83.0,79.0,79.33333333333333,238.0,Excellent
+Female,Group B,Some High School,Standard,None,62.0,64.0,66.0,64.0,192.0,Good
+Male,Group D,Some College,Standard,Completed,77.0,62.0,62.0,67.0,201.0,Good
+Female,Group C,Master'S Degree,Standard,Completed,69.0,84.0,85.0,79.33333333333333,238.0,Excellent
+Male,Group D,Associate'S Degree,Standard,None,61.0,55.0,52.0,56.0,168.0,Average
+Male,Group C,Some High School,Free/Reduced,Completed,59.0,69.0,65.0,64.33333333333333,193.0,Good
+Male,Group E,High School,Free/Reduced,None,55.0,56.0,51.0,54.0,162.0,Average
+Female,Group B,Some College,Free/Reduced,None,45.0,53.0,55.0,51.0,153.0,Average
+Female,Group B,Bachelor'S Degree,Free/Reduced,None,78.0,79.0,76.0,77.66666666666667,233.0,Good
+Female,Group C,Associate'S Degree,Standard,Completed,67.0,84.0,86.0,79.0,237.0,Good
+Female,Group D,Some College,Free/Reduced,None,65.0,81.0,77.0,74.33333333333333,223.0,Good
+Male,Group C,Associate'S Degree,Standard,None,69.0,77.0,69.0,71.66666666666667,215.0,Good
+Female,Group B,Associate'S Degree,Standard,None,57.0,69.0,68.0,64.66666666666667,194.0,Good
+Male,Group C,Some College,Standard,None,59.0,41.0,42.0,47.333333333333336,142.0,Average
+Male,Group D,Some High School,Standard,Completed,74.0,71.0,78.0,74.33333333333333,223.0,Good
+Male,Group E,Bachelor'S Degree,Standard,None,82.0,62.0,62.0,68.66666666666667,206.0,Good
+Male,Group E,High School,Standard,Completed,81.0,80.0,76.0,79.0,237.0,Good
+Female,Group B,Some College,Free/Reduced,None,74.0,81.0,76.0,77.0,231.0,Good
+Female,Group B,Some College,Free/Reduced,None,58.0,61.0,66.0,61.666666666666664,185.0,Good
+Male,Group D,Some High School,Free/Reduced,Completed,80.0,79.0,79.0,79.33333333333333,238.0,Excellent
+Male,Group C,Some College,Free/Reduced,None,35.0,28.0,27.0,30.0,90.0,Needs Improvement
+Female,Group C,High School,Free/Reduced,None,42.0,62.0,60.0,54.666666666666664,164.0,Average
+Male,Group C,Associate'S Degree,Free/Reduced,Completed,60.0,51.0,56.0,55.666666666666664,167.0,Average
+Male,Group E,High School,Standard,Completed,87.0,91.0,81.0,86.33333333333333,259.0,Excellent
+Male,Group B,Some High School,Standard,Completed,84.0,83.0,75.0,80.66666666666667,242.0,Excellent
+Female,Group E,Associate'S Degree,Free/Reduced,Completed,83.0,86.0,88.0,85.66666666666667,257.0,Excellent
+Female,Group C,High School,Free/Reduced,None,34.0,42.0,39.0,38.333333333333336,115.0,Needs Improvement
+Male,Group B,High School,Free/Reduced,None,66.0,77.0,70.0,71.0,213.0,Good
+Male,Group B,Some High School,Standard,Completed,61.0,56.0,56.0,57.666666666666664,173.0,Average
+Female,Group D,High School,Standard,Completed,56.0,68.0,74.0,66.0,198.0,Good
+Male,Group B,Associate'S Degree,Standard,None,87.0,85.0,73.0,81.66666666666667,245.0,Excellent
+Female,Group C,Some High School,Free/Reduced,None,55.0,65.0,62.0,60.666666666666664,182.0,Good
+Male,Group D,Some High School,Standard,None,86.0,80.0,75.0,80.33333333333333,241.0,Excellent
+Female,Group B,Associate'S Degree,Standard,Completed,52.0,66.0,73.0,63.666666666666664,191.0,Good
+Female,Group E,Master'S Degree,Free/Reduced,None,45.0,56.0,54.0,51.666666666666664,155.0,Average
+Female,Group C,Some College,Standard,None,72.0,72.0,71.0,71.66666666666667,215.0,Good
+Male,Group D,High School,Standard,None,57.0,50.0,54.0,53.666666666666664,161.0,Average
+Male,Group A,Some High School,Free/Reduced,None,68.0,72.0,64.0,68.0,204.0,Good
+Female,Group C,Some College,Standard,Completed,88.0,95.0,94.0,92.33333333333333,277.0,Excellent
+Male,Group D,Some College,Standard,None,76.0,64.0,66.0,68.66666666666667,206.0,Good
+Male,Group C,Associate'S Degree,Standard,None,46.0,43.0,42.0,43.666666666666664,131.0,Average
+Female,Group B,Bachelor'S Degree,Standard,None,67.0,86.0,83.0,78.66666666666667,236.0,Good
+Male,Group E,Some High School,Standard,None,92.0,87.0,78.0,85.66666666666667,257.0,Excellent
+Male,Group C,Bachelor'S Degree,Standard,Completed,83.0,82.0,84.0,83.0,249.0,Excellent
+Male,Group D,Associate'S Degree,Standard,None,80.0,75.0,77.0,77.33333333333333,232.0,Good
+Male,Group D,Bachelor'S Degree,Free/Reduced,None,63.0,66.0,67.0,65.33333333333333,196.0,Good
+Female,Group D,Some High School,Standard,Completed,64.0,60.0,74.0,66.0,198.0,Good
+Male,Group B,Some College,Standard,None,54.0,52.0,51.0,52.333333333333336,157.0,Average
+Male,Group C,Associate'S Degree,Standard,None,84.0,80.0,80.0,81.33333333333333,244.0,Excellent
+Male,Group D,High School,Free/Reduced,Completed,73.0,68.0,66.0,69.0,207.0,Good
+Female,Group E,Bachelor'S Degree,Standard,None,80.0,83.0,83.0,82.0,246.0,Excellent
+Female,Group D,High School,Standard,None,56.0,52.0,55.0,54.333333333333336,163.0,Average
+Male,Group E,Some College,Standard,None,59.0,51.0,43.0,51.0,153.0,Average
+Male,Group D,Some High School,Standard,None,75.0,74.0,69.0,72.66666666666667,218.0,Good
+Male,Group C,Associate'S Degree,Standard,None,85.0,76.0,71.0,77.33333333333333,232.0,Good
+Male,Group E,Associate'S Degree,Standard,None,89.0,76.0,74.0,79.66666666666667,239.0,Excellent
+Female,Group B,High School,Standard,Completed,58.0,70.0,68.0,65.33333333333333,196.0,Good
+Female,Group B,High School,Standard,None,65.0,64.0,62.0,63.666666666666664,191.0,Good
+Male,Group C,High School,Standard,None,68.0,60.0,53.0,60.333333333333336,181.0,Good
+Male,Group A,Some High School,Standard,Completed,47.0,49.0,49.0,48.333333333333336,145.0,Average
+Female,Group D,Some College,Free/Reduced,None,71.0,83.0,83.0,79.0,237.0,Good
+Female,Group B,Some High School,Standard,Completed,60.0,70.0,70.0,66.66666666666667,200.0,Good
+Male,Group D,Master'S Degree,Standard,None,80.0,80.0,72.0,77.33333333333333,232.0,Good
+Male,Group D,High School,Standard,None,54.0,52.0,52.0,52.666666666666664,158.0,Average
+Female,Group E,Some College,Standard,None,62.0,73.0,70.0,68.33333333333333,205.0,Good
+Female,Group C,Associate'S Degree,Free/Reduced,None,64.0,73.0,68.0,68.33333333333333,205.0,Good
+Male,Group C,Associate'S Degree,Standard,Completed,78.0,77.0,77.0,77.33333333333333,232.0,Good
+Female,Group B,Some College,Standard,None,70.0,75.0,78.0,74.33333333333333,223.0,Good
+Female,Group C,Master'S Degree,Free/Reduced,Completed,65.0,81.0,81.0,75.66666666666667,227.0,Good
+Female,Group C,Some High School,Free/Reduced,Completed,64.0,79.0,77.0,73.33333333333333,220.0,Good
+Male,Group C,Some College,Standard,Completed,79.0,79.0,78.0,78.66666666666667,236.0,Good
+Female,Group C,Some High School,Free/Reduced,None,44.0,50.0,51.0,48.333333333333336,145.0,Average
+Female,Group E,High School,Standard,None,99.0,93.0,90.0,94.0,282.0,Excellent
+Male,Group D,High School,Standard,None,76.0,73.0,68.0,72.33333333333333,217.0,Good
+Male,Group D,Some High School,Free/Reduced,None,59.0,42.0,41.0,47.333333333333336,142.0,Average
+Female,Group C,Bachelor'S Degree,Standard,None,63.0,75.0,81.0,73.0,219.0,Good
+Female,Group D,High School,Standard,None,69.0,72.0,77.0,72.66666666666667,218.0,Good
+Female,Group D,Associate'S Degree,Standard,Completed,88.0,92.0,95.0,91.66666666666667,275.0,Excellent
+Female,Group E,Some College,Free/Reduced,None,71.0,76.0,70.0,72.33333333333333,217.0,Good
+Male,Group C,Bachelor'S Degree,Standard,None,69.0,63.0,61.0,64.33333333333333,193.0,Good
+Male,Group C,Some College,Standard,None,58.0,49.0,42.0,49.666666666666664,149.0,Average
+Female,Group D,Associate'S Degree,Free/Reduced,None,47.0,53.0,58.0,52.666666666666664,158.0,Average
+Female,Group D,Some College,Standard,None,65.0,70.0,71.0,68.66666666666667,206.0,Good
+Male,Group B,Some College,Standard,Completed,88.0,85.0,76.0,83.0,249.0,Excellent
+Male,Group C,Bachelor'S Degree,Standard,None,83.0,78.0,73.0,78.0,234.0,Good
+Female,Group C,Some High School,Standard,Completed,85.0,92.0,93.0,90.0,270.0,Excellent
+Female,Group E,High School,Standard,Completed,59.0,63.0,75.0,65.66666666666667,197.0,Good
+Female,Group C,Some High School,Free/Reduced,None,65.0,86.0,80.0,77.0,231.0,Good
+Male,Group B,Bachelor'S Degree,Free/Reduced,None,73.0,56.0,57.0,62.0,186.0,Good
+Male,Group D,High School,Standard,None,53.0,52.0,42.0,49.0,147.0,Average
+Male,Group D,High School,Standard,None,45.0,48.0,46.0,46.333333333333336,139.0,Average
+Female,Group D,Bachelor'S Degree,Free/Reduced,None,73.0,79.0,84.0,78.66666666666667,236.0,Good
+Female,Group D,Some College,Free/Reduced,Completed,70.0,78.0,78.0,75.33333333333333,226.0,Good
+Female,Group B,Some High School,Standard,None,37.0,46.0,46.0,43.0,129.0,Average
+Male,Group B,Associate'S Degree,Standard,Completed,81.0,82.0,82.0,81.66666666666667,245.0,Excellent
+Male,Group E,Associate'S Degree,Standard,Completed,97.0,82.0,88.0,89.0,267.0,Excellent
+Female,Group B,Some High School,Standard,None,67.0,89.0,82.0,79.33333333333333,238.0,Excellent
+Male,Group B,Bachelor'S Degree,Free/Reduced,None,88.0,75.0,76.0,79.66666666666667,239.0,Excellent
+Male,Group E,Some High School,Standard,Completed,77.0,76.0,77.0,76.66666666666667,230.0,Good
+Male,Group C,Associate'S Degree,Standard,None,76.0,70.0,68.0,71.33333333333333,214.0,Good
+Male,Group D,Some High School,Standard,None,86.0,73.0,70.0,76.33333333333333,229.0,Good
+Male,Group C,Some High School,Standard,Completed,63.0,60.0,57.0,60.0,180.0,Good
+Female,Group E,Bachelor'S Degree,Standard,None,65.0,73.0,75.0,71.0,213.0,Good
+Male,Group D,High School,Free/Reduced,Completed,78.0,77.0,80.0,78.33333333333333,235.0,Good
+Male,Group B,Associate'S Degree,Free/Reduced,None,67.0,62.0,60.0,63.0,189.0,Good
+Male,Group A,Some High School,Standard,Completed,46.0,41.0,43.0,43.333333333333336,130.0,Average
+Male,Group E,Associate'S Degree,Standard,Completed,71.0,74.0,68.0,71.0,213.0,Good
+Male,Group C,High School,Free/Reduced,Completed,40.0,46.0,50.0,45.333333333333336,136.0,Average
+Male,Group D,Associate'S Degree,Free/Reduced,None,90.0,87.0,75.0,84.0,252.0,Excellent
+Male,Group A,Some College,Free/Reduced,Completed,81.0,78.0,81.0,80.0,240.0,Excellent
+Male,Group D,Some High School,Free/Reduced,None,56.0,54.0,52.0,54.0,162.0,Average
+Female,Group C,Associate'S Degree,Standard,Completed,67.0,84.0,81.0,77.33333333333333,232.0,Good
+Male,Group B,Associate'S Degree,Standard,None,80.0,76.0,64.0,73.33333333333333,220.0,Good
+Female,Group C,Associate'S Degree,Standard,Completed,74.0,75.0,83.0,77.33333333333333,232.0,Good
+Male,Group A,Some College,Standard,None,69.0,67.0,69.0,68.33333333333333,205.0,Good
+Male,Group E,Some College,Standard,Completed,99.0,87.0,81.0,89.0,267.0,Excellent
+Male,Group C,Some High School,Standard,None,51.0,52.0,44.0,49.0,147.0,Average
+Female,Group B,Associate'S Degree,Free/Reduced,None,53.0,71.0,67.0,63.666666666666664,191.0,Good
+Female,Group D,High School,Free/Reduced,None,49.0,57.0,52.0,52.666666666666664,158.0,Average
+Female,Group B,Associate'S Degree,Standard,None,73.0,76.0,80.0,76.33333333333333,229.0,Good
+Male,Group B,Bachelor'S Degree,Standard,None,66.0,60.0,57.0,61.0,183.0,Good
+Male,Group D,Bachelor'S Degree,Standard,Completed,67.0,61.0,68.0,65.33333333333333,196.0,Good
+Female,Group C,Associate'S Degree,Free/Reduced,Completed,68.0,67.0,69.0,68.0,204.0,Good
+Female,Group C,Bachelor'S Degree,Standard,Completed,59.0,64.0,75.0,66.0,198.0,Good
+Male,Group C,High School,Standard,None,71.0,66.0,65.0,67.33333333333333,202.0,Good
+Female,Group D,Master'S Degree,Standard,Completed,77.0,82.0,91.0,83.33333333333333,250.0,Excellent
+Male,Group C,Associate'S Degree,Standard,None,83.0,72.0,78.0,77.66666666666667,233.0,Good
+Male,Group B,Bachelor'S Degree,Standard,None,63.0,71.0,69.0,67.66666666666667,203.0,Good
+Female,Group D,Associate'S Degree,Free/Reduced,None,56.0,65.0,63.0,61.333333333333336,184.0,Good
+Female,Group C,High School,Free/Reduced,Completed,67.0,79.0,84.0,76.66666666666667,230.0,Good
+Female,Group E,High School,Standard,None,75.0,86.0,79.0,80.0,240.0,Excellent
+Female,Group C,Some College,Standard,None,71.0,81.0,80.0,77.33333333333333,232.0,Good
+Female,Group C,Some High School,Free/Reduced,None,43.0,53.0,53.0,49.666666666666664,149.0,Average
+Female,Group C,High School,Free/Reduced,None,41.0,46.0,43.0,43.333333333333336,130.0,Average
+Female,Group C,Some College,Standard,None,82.0,90.0,94.0,88.66666666666667,266.0,Excellent
+Male,Group C,Some College,Standard,None,61.0,61.0,62.0,61.333333333333336,184.0,Good
+Male,Group A,Some College,Free/Reduced,None,28.0,23.0,19.0,23.333333333333332,70.0,Needs Improvement
+Male,Group C,Associate'S Degree,Standard,Completed,82.0,75.0,77.0,78.0,234.0,Good
+Female,Group B,Some High School,Standard,None,41.0,55.0,51.0,49.0,147.0,Average
+Male,Group C,High School,Standard,None,71.0,60.0,61.0,64.0,192.0,Good
+Male,Group C,Associate'S Degree,Standard,None,47.0,37.0,35.0,39.666666666666664,119.0,Average
+Male,Group E,Associate'S Degree,Standard,Completed,62.0,56.0,53.0,57.0,171.0,Average
+Male,Group B,Associate'S Degree,Standard,None,90.0,78.0,81.0,83.0,249.0,Excellent
+Female,Group C,Bachelor'S Degree,Standard,None,83.0,93.0,95.0,90.33333333333333,271.0,Excellent
+Female,Group B,Some College,Free/Reduced,None,61.0,68.0,66.0,65.0,195.0,Good
+Male,Group D,Some High School,Standard,Completed,76.0,70.0,69.0,71.66666666666667,215.0,Good
+Male,Group C,Associate'S Degree,Standard,None,49.0,51.0,43.0,47.666666666666664,143.0,Average
+Female,Group B,Some High School,Free/Reduced,None,24.0,38.0,27.0,29.666666666666668,89.0,Needs Improvement
+Female,Group D,Some High School,Free/Reduced,Completed,35.0,55.0,60.0,50.0,150.0,Average
+Male,Group C,High School,Free/Reduced,None,58.0,61.0,52.0,57.0,171.0,Average
+Female,Group C,High School,Standard,None,61.0,73.0,63.0,65.66666666666667,197.0,Good
+Female,Group B,High School,Standard,Completed,69.0,76.0,74.0,73.0,219.0,Good
+Male,Group D,Associate'S Degree,Standard,Completed,67.0,72.0,67.0,68.66666666666667,206.0,Good
+Male,Group D,Some College,Standard,None,79.0,73.0,67.0,73.0,219.0,Good
+Female,Group C,High School,Standard,None,72.0,80.0,75.0,75.66666666666667,227.0,Good
+Male,Group B,Some College,Standard,None,62.0,61.0,57.0,60.0,180.0,Good
+Female,Group C,Bachelor'S Degree,Standard,Completed,77.0,94.0,95.0,88.66666666666667,266.0,Excellent
+Male,Group D,High School,Free/Reduced,None,75.0,74.0,66.0,71.66666666666667,215.0,Good
+Male,Group E,Associate'S Degree,Standard,None,87.0,74.0,76.0,79.0,237.0,Good
+Female,Group B,Bachelor'S Degree,Standard,None,52.0,65.0,69.0,62.0,186.0,Good
+Male,Group E,Some College,Standard,None,66.0,57.0,52.0,58.333333333333336,175.0,Average
+Female,Group C,Some College,Standard,Completed,63.0,78.0,80.0,73.66666666666667,221.0,Good
+Female,Group C,Associate'S Degree,Standard,None,46.0,58.0,57.0,53.666666666666664,161.0,Average
+Female,Group C,Some College,Standard,None,59.0,71.0,70.0,66.66666666666667,200.0,Good
+Female,Group B,Bachelor'S Degree,Standard,None,61.0,72.0,70.0,67.66666666666667,203.0,Good
+Male,Group A,Associate'S Degree,Standard,None,63.0,61.0,61.0,61.666666666666664,185.0,Good
+Female,Group C,Some College,Free/Reduced,Completed,42.0,66.0,69.0,59.0,177.0,Average
+Male,Group D,Some College,Free/Reduced,None,59.0,62.0,61.0,60.666666666666664,182.0,Good
+Female,Group D,Some College,Standard,None,80.0,90.0,89.0,86.33333333333333,259.0,Excellent
+Female,Group B,High School,Standard,None,58.0,62.0,59.0,59.666666666666664,179.0,Good
+Male,Group B,Some High School,Standard,Completed,85.0,84.0,78.0,82.33333333333333,247.0,Excellent
+Female,Group C,Some College,Standard,None,52.0,58.0,58.0,56.0,168.0,Average
+Female,Group D,Some High School,Free/Reduced,None,27.0,34.0,32.0,31.0,93.0,Needs Improvement
+Male,Group C,Some College,Standard,None,59.0,60.0,58.0,59.0,177.0,Average
+Male,Group A,Bachelor'S Degree,Free/Reduced,Completed,49.0,58.0,60.0,55.666666666666664,167.0,Average
+Male,Group C,High School,Standard,Completed,69.0,58.0,53.0,60.0,180.0,Good
+Male,Group C,Bachelor'S Degree,Free/Reduced,None,61.0,66.0,61.0,62.666666666666664,188.0,Good
+Female,Group A,Some High School,Free/Reduced,None,44.0,64.0,58.0,55.333333333333336,166.0,Average
+Female,Group D,Some High School,Standard,None,73.0,84.0,85.0,80.66666666666667,242.0,Excellent
+Male,Group E,Some College,Standard,None,84.0,77.0,71.0,77.33333333333333,232.0,Good
+Female,Group C,Some College,Free/Reduced,Completed,45.0,73.0,70.0,62.666666666666664,188.0,Good
+Male,Group D,Some High School,Standard,None,74.0,74.0,72.0,73.33333333333333,220.0,Good
+Female,Group D,Some College,Standard,Completed,82.0,97.0,96.0,91.66666666666667,275.0,Excellent
+Female,Group D,Bachelor'S Degree,Standard,None,59.0,70.0,73.0,67.33333333333333,202.0,Good
+Male,Group E,Associate'S Degree,Free/Reduced,None,46.0,43.0,41.0,43.333333333333336,130.0,Average
+Female,Group D,Some High School,Standard,None,80.0,90.0,82.0,84.0,252.0,Excellent
+Female,Group D,Master'S Degree,Free/Reduced,Completed,85.0,95.0,100.0,93.33333333333333,280.0,Excellent
+Female,Group A,Some High School,Standard,None,71.0,83.0,77.0,77.0,231.0,Good
+Male,Group A,Bachelor'S Degree,Standard,None,66.0,64.0,62.0,64.0,192.0,Good
+Female,Group B,Associate'S Degree,Standard,None,80.0,86.0,83.0,83.0,249.0,Excellent
+Male,Group C,Associate'S Degree,Standard,Completed,87.0,100.0,95.0,94.0,282.0,Excellent
+Male,Group C,Master'S Degree,Free/Reduced,None,79.0,81.0,71.0,77.0,231.0,Good
+Female,Group E,Some High School,Free/Reduced,None,38.0,49.0,45.0,44.0,132.0,Average
+Female,Group A,Some High School,Free/Reduced,None,38.0,43.0,43.0,41.333333333333336,124.0,Average
+Female,Group E,Some College,Standard,None,67.0,76.0,75.0,72.66666666666667,218.0,Good
+Female,Group E,Bachelor'S Degree,Standard,None,64.0,73.0,70.0,69.0,207.0,Good
+Female,Group C,Associate'S Degree,Free/Reduced,None,57.0,78.0,67.0,67.33333333333333,202.0,Good
+Female,Group D,High School,Standard,None,62.0,64.0,64.0,63.333333333333336,190.0,Good
+Male,Group D,Master'S Degree,Standard,None,73.0,70.0,75.0,72.66666666666667,218.0,Good
+Male,Group E,Some High School,Free/Reduced,Completed,73.0,67.0,59.0,66.33333333333333,199.0,Good
+Female,Group D,Some College,Standard,None,77.0,68.0,77.0,74.0,222.0,Good
+Male,Group E,Some College,Standard,None,76.0,67.0,67.0,70.0,210.0,Good
+Male,Group C,Associate'S Degree,Standard,Completed,57.0,54.0,56.0,55.666666666666664,167.0,Average
+Female,Group C,Some High School,Standard,Completed,65.0,74.0,77.0,72.0,216.0,Good
+Male,Group A,High School,Free/Reduced,None,48.0,45.0,41.0,44.666666666666664,134.0,Average
+Female,Group B,High School,Free/Reduced,None,50.0,67.0,63.0,60.0,180.0,Good
+Female,Group C,Associate'S Degree,Standard,None,85.0,89.0,95.0,89.66666666666667,269.0,Excellent
+Male,Group B,Some High School,Standard,None,74.0,63.0,57.0,64.66666666666667,194.0,Good
+Male,Group D,Some High School,Standard,None,60.0,59.0,54.0,57.666666666666664,173.0,Average
+Female,Group C,Some High School,Standard,Completed,59.0,54.0,67.0,60.0,180.0,Good
+Male,Group A,Some College,Standard,None,53.0,43.0,43.0,46.333333333333336,139.0,Average
+Female,Group A,Some College,Free/Reduced,None,49.0,65.0,55.0,56.333333333333336,169.0,Average
+Female,Group D,High School,Standard,Completed,88.0,99.0,100.0,95.66666666666667,287.0,Excellent
+Female,Group C,High School,Standard,None,54.0,59.0,62.0,58.333333333333336,175.0,Average
+Female,Group C,Some High School,Standard,None,63.0,73.0,68.0,68.0,204.0,Good
+Male,Group B,Associate'S Degree,Standard,Completed,65.0,65.0,63.0,64.33333333333333,193.0,Good
+Female,Group B,Associate'S Degree,Standard,None,82.0,80.0,77.0,79.66666666666667,239.0,Excellent
+Female,Group D,High School,Free/Reduced,Completed,52.0,57.0,56.0,55.0,165.0,Average
+Male,Group D,Associate'S Degree,Standard,Completed,87.0,84.0,85.0,85.33333333333333,256.0,Excellent
+Female,Group D,Master'S Degree,Standard,Completed,70.0,71.0,74.0,71.66666666666667,215.0,Good
+Male,Group E,Some College,Standard,Completed,84.0,83.0,78.0,81.66666666666667,245.0,Excellent
+Male,Group D,Associate'S Degree,Standard,None,71.0,66.0,60.0,65.66666666666667,197.0,Good
+Male,Group B,Some High School,Standard,Completed,63.0,67.0,67.0,65.66666666666667,197.0,Good
+Female,Group C,Bachelor'S Degree,Free/Reduced,Completed,51.0,72.0,79.0,67.33333333333333,202.0,Good
+Male,Group E,High School,Standard,None,84.0,73.0,69.0,75.33333333333333,226.0,Good
+Male,Group C,Bachelor'S Degree,Standard,Completed,71.0,74.0,68.0,71.0,213.0,Good
+Male,Group C,Associate'S Degree,Standard,None,74.0,73.0,67.0,71.33333333333333,214.0,Good
+Male,Group D,Some College,Standard,None,68.0,59.0,62.0,63.0,189.0,Good
+Male,Group E,High School,Free/Reduced,Completed,57.0,56.0,54.0,55.666666666666664,167.0,Average
+Female,Group C,Associate'S Degree,Free/Reduced,Completed,82.0,93.0,93.0,89.33333333333333,268.0,Excellent
+Female,Group D,High School,Standard,Completed,57.0,58.0,64.0,59.666666666666664,179.0,Good
+Female,Group D,Master'S Degree,Free/Reduced,Completed,47.0,58.0,67.0,57.333333333333336,172.0,Average
+Female,Group A,Some High School,Standard,Completed,59.0,85.0,80.0,74.66666666666667,224.0,Good
+Male,Group B,Some College,Free/Reduced,None,41.0,39.0,34.0,38.0,114.0,Needs Improvement
+Female,Group C,Some College,Free/Reduced,None,62.0,67.0,62.0,63.666666666666664,191.0,Good
+Male,Group C,Bachelor'S Degree,Standard,None,86.0,83.0,86.0,85.0,255.0,Excellent
+Male,Group C,Some High School,Free/Reduced,None,69.0,71.0,65.0,68.33333333333333,205.0,Good
+Male,Group A,Some High School,Free/Reduced,None,65.0,59.0,53.0,59.0,177.0,Average
+Male,Group C,Some High School,Free/Reduced,None,68.0,63.0,54.0,61.666666666666664,185.0,Good
+Male,Group C,Associate'S Degree,Free/Reduced,None,64.0,66.0,59.0,63.0,189.0,Good
+Female,Group C,High School,Standard,None,61.0,72.0,70.0,67.66666666666667,203.0,Good
+Male,Group C,High School,Standard,None,61.0,56.0,55.0,57.333333333333336,172.0,Average
+Female,Group A,Some High School,Free/Reduced,None,47.0,59.0,50.0,52.0,156.0,Average
+Male,Group C,Some High School,Standard,None,73.0,66.0,66.0,68.33333333333333,205.0,Good
+Male,Group C,Some College,Free/Reduced,Completed,50.0,48.0,53.0,50.333333333333336,151.0,Average
+Male,Group D,Associate'S Degree,Standard,None,75.0,68.0,64.0,69.0,207.0,Good
+Male,Group D,Associate'S Degree,Free/Reduced,None,75.0,66.0,73.0,71.33333333333333,214.0,Good
+Male,Group C,High School,Standard,None,70.0,56.0,51.0,59.0,177.0,Average
+Male,Group D,Some High School,Standard,Completed,89.0,88.0,82.0,86.33333333333333,259.0,Excellent
+Female,Group C,Some College,Standard,Completed,67.0,81.0,79.0,75.66666666666667,227.0,Good
+Female,Group D,High School,Standard,None,78.0,81.0,80.0,79.66666666666667,239.0,Excellent
+Female,Group A,Some High School,Free/Reduced,None,59.0,73.0,69.0,67.0,201.0,Good
+Female,Group B,Associate'S Degree,Standard,None,73.0,83.0,76.0,77.33333333333333,232.0,Good
+Male,Group A,Some High School,Free/Reduced,None,79.0,82.0,73.0,78.0,234.0,Good
+Female,Group C,Some High School,Standard,Completed,67.0,74.0,77.0,72.66666666666667,218.0,Good
+Male,Group D,Some College,Free/Reduced,None,69.0,66.0,60.0,65.0,195.0,Good
+Male,Group C,High School,Standard,Completed,86.0,81.0,80.0,82.33333333333333,247.0,Excellent
+Male,Group B,High School,Standard,None,47.0,46.0,42.0,45.0,135.0,Average
+Male,Group B,Associate'S Degree,Standard,None,81.0,73.0,72.0,75.33333333333333,226.0,Good
+Female,Group C,Some College,Free/Reduced,Completed,64.0,85.0,85.0,78.0,234.0,Good
+Female,Group E,Some College,Standard,None,100.0,92.0,97.0,96.33333333333333,289.0,Excellent
+Female,Group C,Associate'S Degree,Free/Reduced,None,65.0,77.0,74.0,72.0,216.0,Good
+Male,Group C,Some College,Free/Reduced,None,65.0,58.0,49.0,57.333333333333336,172.0,Average
+Female,Group C,Associate'S Degree,Free/Reduced,None,53.0,61.0,62.0,58.666666666666664,176.0,Average
+Male,Group C,Bachelor'S Degree,Free/Reduced,None,37.0,56.0,47.0,46.666666666666664,140.0,Average
+Female,Group D,Bachelor'S Degree,Standard,None,79.0,89.0,89.0,85.66666666666667,257.0,Excellent
+Male,Group D,Associate'S Degree,Free/Reduced,None,53.0,54.0,48.0,51.666666666666664,155.0,Average
+Female,Group E,Bachelor'S Degree,Standard,None,100.0,100.0,100.0,100.0,300.0,Excellent
+Male,Group B,High School,Standard,Completed,72.0,65.0,68.0,68.33333333333333,205.0,Good
+Male,Group C,Bachelor'S Degree,Free/Reduced,None,53.0,58.0,55.0,55.333333333333336,166.0,Average
+Male,Group B,Some College,Free/Reduced,None,54.0,54.0,45.0,51.0,153.0,Average
+Female,Group E,Some College,Standard,None,71.0,70.0,76.0,72.33333333333333,217.0,Good
+Female,Group C,Some College,Free/Reduced,None,77.0,90.0,91.0,86.0,258.0,Excellent
+Male,Group A,Bachelor'S Degree,Standard,Completed,75.0,58.0,62.0,65.0,195.0,Good
+Female,Group C,Some College,Standard,None,84.0,87.0,91.0,87.33333333333333,262.0,Excellent
+Female,Group D,Associate'S Degree,Free/Reduced,None,26.0,31.0,38.0,31.666666666666668,95.0,Needs Improvement
+Male,Group A,High School,Free/Reduced,Completed,72.0,67.0,65.0,68.0,204.0,Good
+Female,Group A,High School,Free/Reduced,Completed,77.0,88.0,85.0,83.33333333333333,250.0,Excellent
+Male,Group C,Some College,Standard,None,91.0,74.0,76.0,80.33333333333333,241.0,Excellent
+Female,Group C,Associate'S Degree,Standard,Completed,83.0,85.0,90.0,86.0,258.0,Excellent
+Female,Group C,High School,Standard,None,63.0,69.0,74.0,68.66666666666667,206.0,Good
+Female,Group C,Associate'S Degree,Standard,Completed,68.0,86.0,84.0,79.33333333333333,238.0,Excellent
+Female,Group D,Some High School,Standard,None,59.0,67.0,61.0,62.333333333333336,187.0,Good
+Female,Group B,Associate'S Degree,Standard,Completed,90.0,90.0,91.0,90.33333333333333,271.0,Excellent
+Female,Group D,Bachelor'S Degree,Standard,Completed,71.0,76.0,83.0,76.66666666666667,230.0,Good
+Male,Group E,Bachelor'S Degree,Standard,Completed,76.0,62.0,66.0,68.0,204.0,Good
+Male,Group D,Associate'S Degree,Standard,None,80.0,68.0,72.0,73.33333333333333,220.0,Good
+Female,Group D,Master'S Degree,Standard,None,55.0,64.0,70.0,63.0,189.0,Good
+Male,Group E,Associate'S Degree,Standard,None,76.0,71.0,67.0,71.33333333333333,214.0,Good
+Male,Group B,High School,Standard,Completed,73.0,71.0,68.0,70.66666666666667,212.0,Good
+Female,Group D,Associate'S Degree,Free/Reduced,None,52.0,59.0,56.0,55.666666666666664,167.0,Average
+Male,Group C,Some College,Free/Reduced,None,68.0,68.0,61.0,65.66666666666667,197.0,Good
+Male,Group A,High School,Standard,None,59.0,52.0,46.0,52.333333333333336,157.0,Average
+Female,Group B,Associate'S Degree,Standard,None,49.0,52.0,54.0,51.666666666666664,155.0,Average
+Male,Group C,High School,Standard,None,70.0,74.0,71.0,71.66666666666667,215.0,Good
+Male,Group D,Some College,Free/Reduced,None,61.0,47.0,56.0,54.666666666666664,164.0,Average
+Female,Group C,Associate'S Degree,Free/Reduced,None,60.0,75.0,74.0,69.66666666666667,209.0,Good
+Male,Group B,Some High School,Standard,Completed,64.0,53.0,57.0,58.0,174.0,Average
+Male,Group A,Associate'S Degree,Free/Reduced,Completed,79.0,82.0,82.0,81.0,243.0,Excellent
+Female,Group A,Associate'S Degree,Free/Reduced,None,65.0,85.0,76.0,75.33333333333333,226.0,Good
+Female,Group C,Associate'S Degree,Standard,None,64.0,64.0,70.0,66.0,198.0,Good
+Female,Group C,Some College,Standard,None,83.0,83.0,90.0,85.33333333333333,256.0,Excellent
+Female,Group C,Bachelor'S Degree,Standard,None,81.0,88.0,90.0,86.33333333333333,259.0,Excellent
+Female,Group B,High School,Standard,None,54.0,64.0,68.0,62.0,186.0,Good
+Male,Group D,High School,Standard,Completed,68.0,64.0,66.0,66.0,198.0,Good
+Female,Group C,Some College,Standard,None,54.0,48.0,52.0,51.333333333333336,154.0,Average
+Female,Group D,Some College,Free/Reduced,Completed,59.0,78.0,76.0,71.0,213.0,Good
+Female,Group B,Some High School,Standard,None,66.0,69.0,68.0,67.66666666666667,203.0,Good
+Male,Group E,Some College,Standard,None,76.0,71.0,72.0,73.0,219.0,Good
+Female,Group D,Master'S Degree,Standard,None,74.0,79.0,82.0,78.33333333333333,235.0,Good
+Female,Group B,Associate'S Degree,Standard,Completed,94.0,87.0,92.0,91.0,273.0,Excellent
+Male,Group C,Some College,Free/Reduced,None,63.0,61.0,54.0,59.333333333333336,178.0,Good
+Female,Group E,Associate'S Degree,Standard,Completed,95.0,89.0,92.0,92.0,276.0,Excellent
+Female,Group D,Master'S Degree,Free/Reduced,None,40.0,59.0,54.0,51.0,153.0,Average
+Female,Group B,Some High School,Standard,None,82.0,82.0,80.0,81.33333333333333,244.0,Excellent
+Male,Group A,High School,Standard,None,68.0,70.0,66.0,68.0,204.0,Good
+Male,Group B,Bachelor'S Degree,Free/Reduced,None,55.0,59.0,54.0,56.0,168.0,Average
+Male,Group C,Master'S Degree,Standard,None,79.0,78.0,77.0,78.0,234.0,Good
+Female,Group C,Bachelor'S Degree,Standard,None,86.0,92.0,87.0,88.33333333333333,265.0,Excellent
+Male,Group D,Some College,Standard,None,76.0,71.0,73.0,73.33333333333333,220.0,Good
+Male,Group A,Some High School,Standard,None,64.0,50.0,43.0,52.333333333333336,157.0,Average
+Male,Group D,Some High School,Free/Reduced,None,62.0,49.0,52.0,54.333333333333336,163.0,Average
+Female,Group B,Some High School,Standard,Completed,54.0,61.0,62.0,59.0,177.0,Average
+Female,Group B,Master'S Degree,Free/Reduced,Completed,77.0,97.0,94.0,89.33333333333333,268.0,Excellent
+Female,Group C,Some High School,Standard,Completed,76.0,87.0,85.0,82.66666666666667,248.0,Excellent
+Female,Group D,Some College,Standard,None,74.0,89.0,84.0,82.33333333333333,247.0,Excellent
+Female,Group E,Some College,Standard,Completed,66.0,74.0,73.0,71.0,213.0,Good
+Female,Group D,Some High School,Standard,Completed,66.0,78.0,78.0,74.0,222.0,Good
+Female,Group B,High School,Free/Reduced,Completed,67.0,78.0,79.0,74.66666666666667,224.0,Good
+Male,Group D,Some College,Standard,None,71.0,49.0,52.0,57.333333333333336,172.0,Average
+Female,Group C,Associate'S Degree,Standard,None,91.0,86.0,84.0,87.0,261.0,Excellent
+Male,Group D,Bachelor'S Degree,Standard,None,69.0,58.0,57.0,61.333333333333336,184.0,Good
+Male,Group C,Master'S Degree,Free/Reduced,None,54.0,59.0,50.0,54.333333333333336,163.0,Average
+Male,Group C,High School,Standard,Completed,53.0,52.0,49.0,51.333333333333336,154.0,Average
+Male,Group E,Some College,Standard,None,68.0,60.0,59.0,62.333333333333336,187.0,Good
+Male,Group C,Some High School,Free/Reduced,Completed,56.0,61.0,60.0,59.0,177.0,Average
+Female,Group C,High School,Free/Reduced,None,36.0,53.0,43.0,44.0,132.0,Average
+Female,Group D,Bachelor'S Degree,Free/Reduced,None,29.0,41.0,47.0,39.0,117.0,Needs Improvement
+Female,Group C,Associate'S Degree,Standard,None,62.0,74.0,70.0,68.66666666666667,206.0,Good
+Female,Group C,Associate'S Degree,Standard,Completed,68.0,67.0,73.0,69.33333333333333,208.0,Good
+Female,Group C,Some High School,Standard,None,47.0,54.0,53.0,51.333333333333336,154.0,Average
+Male,Group E,Associate'S Degree,Standard,Completed,62.0,61.0,58.0,60.333333333333336,181.0,Good
+Female,Group E,Associate'S Degree,Standard,Completed,79.0,88.0,94.0,87.0,261.0,Excellent
+Male,Group B,High School,Standard,Completed,73.0,69.0,68.0,70.0,210.0,Good
+Female,Group C,Bachelor'S Degree,Free/Reduced,Completed,66.0,83.0,83.0,77.33333333333333,232.0,Good
+Male,Group C,Associate'S Degree,Standard,Completed,51.0,60.0,58.0,56.333333333333336,169.0,Average
+Female,Group D,High School,Standard,None,51.0,66.0,62.0,59.666666666666664,179.0,Good
+Male,Group E,Bachelor'S Degree,Standard,Completed,85.0,66.0,71.0,74.0,222.0,Good
+Male,Group A,Associate'S Degree,Standard,Completed,97.0,92.0,86.0,91.66666666666667,275.0,Excellent
+Male,Group C,High School,Standard,Completed,75.0,69.0,68.0,70.66666666666667,212.0,Good
+Male,Group D,Associate'S Degree,Free/Reduced,Completed,79.0,82.0,80.0,80.33333333333333,241.0,Excellent
+Female,Group C,Associate'S Degree,Standard,None,81.0,77.0,79.0,79.0,237.0,Good
+Female,Group D,Associate'S Degree,Standard,None,82.0,95.0,89.0,88.66666666666667,266.0,Excellent
+Female,Group D,Master'S Degree,Standard,None,64.0,63.0,66.0,64.33333333333333,193.0,Good
+Male,Group E,Some High School,Free/Reduced,Completed,78.0,83.0,80.0,80.33333333333333,241.0,Excellent
+Female,Group A,Some High School,Standard,Completed,92.0,100.0,97.0,96.33333333333333,289.0,Excellent
+Male,Group C,High School,Standard,Completed,72.0,67.0,64.0,67.66666666666667,203.0,Good
+Female,Group C,High School,Free/Reduced,None,62.0,67.0,64.0,64.33333333333333,193.0,Good
+Male,Group C,Master'S Degree,Standard,None,79.0,72.0,69.0,73.33333333333333,220.0,Good
+Male,Group C,Some High School,Free/Reduced,None,79.0,76.0,65.0,73.33333333333333,220.0,Good
+Male,Group B,Bachelor'S Degree,Free/Reduced,Completed,87.0,90.0,88.0,88.33333333333333,265.0,Excellent
+Female,Group B,Associate'S Degree,Standard,None,40.0,48.0,50.0,46.0,138.0,Average
+Male,Group D,Some College,Free/Reduced,None,77.0,62.0,64.0,67.66666666666667,203.0,Good
+Male,Group E,Associate'S Degree,Standard,None,53.0,45.0,40.0,46.0,138.0,Average
+Female,Group C,Some College,Free/Reduced,None,32.0,39.0,33.0,34.666666666666664,104.0,Needs Improvement
+Female,Group C,Associate'S Degree,Standard,Completed,55.0,72.0,79.0,68.66666666666667,206.0,Good
+Male,Group C,Master'S Degree,Free/Reduced,None,61.0,67.0,66.0,64.66666666666667,194.0,Good
+Female,Group B,Associate'S Degree,Free/Reduced,None,53.0,70.0,70.0,64.33333333333333,193.0,Good
+Male,Group D,Some High School,Standard,None,73.0,66.0,62.0,67.0,201.0,Good
+Female,Group D,Some College,Standard,Completed,74.0,75.0,79.0,76.0,228.0,Good
+Female,Group C,Some College,Standard,None,63.0,74.0,74.0,70.33333333333333,211.0,Good
+Male,Group C,Bachelor'S Degree,Standard,Completed,96.0,90.0,92.0,92.66666666666667,278.0,Excellent
+Female,Group D,Some College,Free/Reduced,Completed,63.0,80.0,80.0,74.33333333333333,223.0,Good
+Male,Group B,Bachelor'S Degree,Free/Reduced,None,48.0,51.0,46.0,48.333333333333336,145.0,Average
+Male,Group B,Associate'S Degree,Standard,None,48.0,43.0,45.0,45.333333333333336,136.0,Average
+Female,Group E,Bachelor'S Degree,Free/Reduced,Completed,92.0,100.0,100.0,97.33333333333333,292.0,Excellent
+Female,Group D,Master'S Degree,Free/Reduced,Completed,61.0,71.0,78.0,70.0,210.0,Good
+Male,Group B,High School,Free/Reduced,None,63.0,48.0,47.0,52.666666666666664,158.0,Average
+Male,Group D,Bachelor'S Degree,Free/Reduced,None,68.0,68.0,67.0,67.66666666666667,203.0,Good
+Male,Group B,Some College,Standard,Completed,71.0,75.0,70.0,72.0,216.0,Good
+Male,Group A,Bachelor'S Degree,Standard,None,91.0,96.0,92.0,93.0,279.0,Excellent
+Female,Group C,Some College,Standard,None,53.0,62.0,56.0,57.0,171.0,Average
+Female,Group C,High School,Free/Reduced,Completed,50.0,66.0,64.0,60.0,180.0,Good
+Female,Group E,High School,Standard,None,74.0,81.0,71.0,75.33333333333333,226.0,Good
+Male,Group A,Associate'S Degree,Free/Reduced,Completed,40.0,55.0,53.0,49.333333333333336,148.0,Average
+Male,Group A,Some College,Standard,Completed,61.0,51.0,52.0,54.666666666666664,164.0,Average
+Female,Group B,High School,Standard,None,81.0,91.0,89.0,87.0,261.0,Excellent
+Female,Group B,Some College,Free/Reduced,Completed,48.0,56.0,58.0,54.0,162.0,Average
+Female,Group D,Master'S Degree,Standard,None,53.0,61.0,68.0,60.666666666666664,182.0,Good
+Female,Group D,Some High School,Standard,None,81.0,97.0,96.0,91.33333333333333,274.0,Excellent
+Female,Group E,Some High School,Standard,None,77.0,79.0,80.0,78.66666666666667,236.0,Good
+Female,Group D,Bachelor'S Degree,Free/Reduced,None,63.0,73.0,78.0,71.33333333333333,214.0,Good
+Female,Group D,Associate'S Degree,Standard,Completed,73.0,75.0,80.0,76.0,228.0,Good
+Female,Group D,Some College,Standard,None,69.0,77.0,77.0,74.33333333333333,223.0,Good
+Female,Group C,Associate'S Degree,Standard,None,65.0,76.0,76.0,72.33333333333333,217.0,Good
+Female,Group A,High School,Standard,None,55.0,73.0,73.0,67.0,201.0,Good
+Female,Group C,Bachelor'S Degree,Free/Reduced,None,44.0,63.0,62.0,56.333333333333336,169.0,Average
+Female,Group C,Some College,Standard,None,54.0,64.0,65.0,61.0,183.0,Good
+Female,Group A,Some High School,Standard,None,48.0,66.0,65.0,59.666666666666664,179.0,Good
+Male,Group C,Some College,Free/Reduced,None,58.0,57.0,54.0,56.333333333333336,169.0,Average
+Male,Group A,Some High School,Standard,None,71.0,62.0,50.0,61.0,183.0,Good
+Male,Group E,Bachelor'S Degree,Standard,None,68.0,68.0,64.0,66.66666666666667,200.0,Good
+Female,Group E,High School,Standard,None,74.0,76.0,73.0,74.33333333333333,223.0,Good
+Female,Group C,Bachelor'S Degree,Standard,Completed,92.0,100.0,99.0,97.0,291.0,Excellent
+Female,Group C,Bachelor'S Degree,Standard,Completed,56.0,79.0,72.0,69.0,207.0,Good
+Male,Group B,High School,Free/Reduced,None,30.0,24.0,15.0,23.0,69.0,Needs Improvement
+Male,Group A,Some High School,Standard,None,53.0,54.0,48.0,51.666666666666664,155.0,Average
+Female,Group D,High School,Standard,None,69.0,77.0,73.0,73.0,219.0,Good
+Female,Group D,Some High School,Standard,None,65.0,82.0,81.0,76.0,228.0,Good
+Female,Group D,Master'S Degree,Standard,None,54.0,60.0,63.0,59.0,177.0,Average
+Female,Group C,High School,Standard,None,29.0,29.0,30.0,29.333333333333332,88.0,Needs Improvement
+Female,Group E,Some College,Standard,None,76.0,78.0,80.0,78.0,234.0,Good
+Male,Group D,High School,Free/Reduced,None,60.0,57.0,51.0,56.0,168.0,Average
+Male,Group D,Master'S Degree,Free/Reduced,Completed,84.0,89.0,90.0,87.66666666666667,263.0,Excellent
+Male,Group C,Some High School,Standard,None,75.0,72.0,62.0,69.66666666666667,209.0,Good
+Female,Group C,Associate'S Degree,Standard,None,85.0,84.0,82.0,83.66666666666667,251.0,Excellent
+Female,Group C,Master'S Degree,Free/Reduced,None,40.0,58.0,54.0,50.666666666666664,152.0,Average
+Female,Group E,Some College,Standard,None,61.0,64.0,62.0,62.333333333333336,187.0,Good
+Female,Group B,Associate'S Degree,Standard,None,58.0,63.0,65.0,62.0,186.0,Good
+Male,Group D,Some College,Free/Reduced,Completed,69.0,60.0,63.0,64.0,192.0,Good
+Female,Group C,Some College,Standard,None,58.0,59.0,66.0,61.0,183.0,Good
+Male,Group C,Bachelor'S Degree,Standard,Completed,94.0,90.0,91.0,91.66666666666667,275.0,Excellent
+Female,Group C,Associate'S Degree,Standard,None,65.0,77.0,74.0,72.0,216.0,Good
+Female,Group A,Associate'S Degree,Standard,None,82.0,93.0,93.0,89.33333333333333,268.0,Excellent
+Female,Group C,High School,Standard,None,60.0,68.0,72.0,66.66666666666667,200.0,Good
+Female,Group E,Bachelor'S Degree,Standard,None,37.0,45.0,38.0,40.0,120.0,Average
+Male,Group D,Bachelor'S Degree,Standard,None,88.0,78.0,83.0,83.0,249.0,Excellent
+Male,Group D,Master'S Degree,Standard,None,95.0,81.0,84.0,86.66666666666667,260.0,Excellent
+Male,Group C,Associate'S Degree,Free/Reduced,Completed,65.0,73.0,68.0,68.66666666666667,206.0,Good
+Female,Group C,High School,Free/Reduced,None,35.0,61.0,54.0,50.0,150.0,Average
+Male,Group B,Bachelor'S Degree,Free/Reduced,None,62.0,63.0,56.0,60.333333333333336,181.0,Good
+Male,Group C,High School,Free/Reduced,Completed,58.0,51.0,52.0,53.666666666666664,161.0,Average
+Male,Group A,Some College,Standard,Completed,100.0,96.0,86.0,94.0,282.0,Excellent
+Female,Group E,Bachelor'S Degree,Free/Reduced,None,61.0,58.0,62.0,60.333333333333336,181.0,Good
+Male,Group D,Some College,Standard,Completed,100.0,97.0,99.0,98.66666666666667,296.0,Excellent
+Male,Group B,Associate'S Degree,Free/Reduced,Completed,69.0,70.0,63.0,67.33333333333333,202.0,Good
+Male,Group D,Associate'S Degree,Standard,None,61.0,48.0,46.0,51.666666666666664,155.0,Average
+Male,Group D,Some College,Free/Reduced,None,49.0,57.0,46.0,50.666666666666664,152.0,Average
+Female,Group C,Some High School,Standard,Completed,44.0,51.0,55.0,50.0,150.0,Average
+Male,Group D,Some College,Standard,None,67.0,64.0,70.0,67.0,201.0,Good
+Male,Group B,High School,Standard,None,79.0,60.0,65.0,68.0,204.0,Good
+Female,Group B,Bachelor'S Degree,Standard,Completed,66.0,74.0,81.0,73.66666666666667,221.0,Good
+Female,Group C,High School,Standard,None,75.0,88.0,85.0,82.66666666666667,248.0,Excellent
+Male,Group D,Some High School,Standard,None,84.0,84.0,80.0,82.66666666666667,248.0,Excellent
+Male,Group A,High School,Standard,None,71.0,74.0,64.0,69.66666666666667,209.0,Good
+Female,Group B,High School,Free/Reduced,Completed,67.0,80.0,81.0,76.0,228.0,Good
+Female,Group D,Some High School,Standard,Completed,80.0,92.0,88.0,86.66666666666667,260.0,Excellent
+Male,Group E,Some College,Standard,None,86.0,76.0,74.0,78.66666666666667,236.0,Good
+Female,Group D,Associate'S Degree,Standard,None,76.0,74.0,73.0,74.33333333333333,223.0,Good
+Male,Group D,High School,Standard,None,41.0,52.0,51.0,48.0,144.0,Average
+Female,Group D,Associate'S Degree,Free/Reduced,Completed,74.0,88.0,90.0,84.0,252.0,Excellent
+Female,Group B,Some High School,Free/Reduced,None,72.0,81.0,79.0,77.33333333333333,232.0,Good
+Female,Group E,High School,Standard,Completed,74.0,79.0,80.0,77.66666666666667,233.0,Good
+Male,Group B,High School,Standard,None,70.0,65.0,60.0,65.0,195.0,Good
+Female,Group B,Bachelor'S Degree,Standard,Completed,65.0,81.0,81.0,75.66666666666667,227.0,Good
+Female,Group D,Associate'S Degree,Standard,None,59.0,70.0,65.0,64.66666666666667,194.0,Good
+Female,Group E,High School,Free/Reduced,None,64.0,62.0,68.0,64.66666666666667,194.0,Good
+Female,Group B,High School,Standard,None,50.0,53.0,55.0,52.666666666666664,158.0,Average
+Female,Group D,Some College,Standard,Completed,69.0,79.0,81.0,76.33333333333333,229.0,Good
+Male,Group C,Some High School,Free/Reduced,Completed,51.0,56.0,53.0,53.333333333333336,160.0,Average
+Female,Group A,High School,Standard,Completed,68.0,80.0,76.0,74.66666666666667,224.0,Good
+Female,Group D,Some College,Standard,Completed,85.0,86.0,98.0,89.66666666666667,269.0,Excellent
+Female,Group A,Associate'S Degree,Standard,Completed,65.0,70.0,74.0,69.66666666666667,209.0,Good
+Female,Group B,Some High School,Standard,None,73.0,79.0,79.0,77.0,231.0,Good
+Female,Group B,Some College,Standard,None,62.0,67.0,67.0,65.33333333333333,196.0,Good
+Male,Group C,Associate'S Degree,Free/Reduced,None,77.0,67.0,64.0,69.33333333333333,208.0,Good
+Male,Group D,Some High School,Standard,None,69.0,66.0,61.0,65.33333333333333,196.0,Good
+Female,Group D,Associate'S Degree,Free/Reduced,None,43.0,60.0,58.0,53.666666666666664,161.0,Average
+Male,Group D,Associate'S Degree,Standard,None,90.0,87.0,85.0,87.33333333333333,262.0,Excellent
+Male,Group C,Some College,Free/Reduced,None,74.0,77.0,73.0,74.66666666666667,224.0,Good
+Male,Group C,Some High School,Standard,None,73.0,66.0,63.0,67.33333333333333,202.0,Good
+Female,Group D,Some College,Free/Reduced,None,55.0,71.0,69.0,65.0,195.0,Good
+Female,Group C,High School,Standard,None,65.0,69.0,67.0,67.0,201.0,Good
+Male,Group D,Associate'S Degree,Standard,None,80.0,63.0,63.0,68.66666666666667,206.0,Good
+Female,Group C,Some High School,Free/Reduced,Completed,50.0,60.0,60.0,56.666666666666664,170.0,Average
+Female,Group C,Some College,Free/Reduced,Completed,63.0,73.0,71.0,69.0,207.0,Good
+Female,Group B,Bachelor'S Degree,Free/Reduced,None,77.0,85.0,87.0,83.0,249.0,Excellent
+Male,Group C,Some College,Standard,None,73.0,74.0,61.0,69.33333333333333,208.0,Good
+Male,Group D,Associate'S Degree,Standard,Completed,81.0,72.0,77.0,76.66666666666667,230.0,Good
+Female,Group C,High School,Free/Reduced,None,66.0,76.0,68.0,70.0,210.0,Good
+Male,Group D,Associate'S Degree,Free/Reduced,None,52.0,57.0,50.0,53.0,159.0,Average
+Female,Group C,Some College,Standard,None,69.0,78.0,76.0,74.33333333333333,223.0,Good
+Female,Group C,Associate'S Degree,Standard,Completed,65.0,84.0,84.0,77.66666666666667,233.0,Good
+Female,Group D,High School,Standard,Completed,69.0,77.0,78.0,74.66666666666667,224.0,Good
+Female,Group B,Some College,Standard,Completed,50.0,64.0,66.0,60.0,180.0,Good
+Female,Group E,Some College,Standard,Completed,73.0,78.0,76.0,75.66666666666667,227.0,Good
+Female,Group C,Some High School,Standard,Completed,70.0,82.0,76.0,76.0,228.0,Good
+Male,Group D,Associate'S Degree,Free/Reduced,None,81.0,75.0,78.0,78.0,234.0,Good
+Male,Group D,Some College,Free/Reduced,None,63.0,61.0,60.0,61.333333333333336,184.0,Good
+Female,Group D,High School,Standard,None,67.0,72.0,74.0,71.0,213.0,Good
+Male,Group B,High School,Standard,None,60.0,68.0,60.0,62.666666666666664,188.0,Good
+Male,Group B,High School,Standard,None,62.0,55.0,54.0,57.0,171.0,Average
+Female,Group C,Some High School,Free/Reduced,Completed,29.0,40.0,44.0,37.666666666666664,113.0,Needs Improvement
+Male,Group B,Some College,Standard,Completed,62.0,66.0,68.0,65.33333333333333,196.0,Good
+Female,Group E,Master'S Degree,Standard,Completed,94.0,99.0,100.0,97.66666666666667,293.0,Excellent
+Male,Group E,Some College,Standard,Completed,85.0,75.0,68.0,76.0,228.0,Good
+Male,Group D,Associate'S Degree,Free/Reduced,None,77.0,78.0,73.0,76.0,228.0,Good
+Male,Group A,High School,Free/Reduced,None,53.0,58.0,44.0,51.666666666666664,155.0,Average
+Male,Group E,Some College,Free/Reduced,None,93.0,90.0,83.0,88.66666666666667,266.0,Excellent
+Female,Group C,Associate'S Degree,Standard,None,49.0,53.0,53.0,51.666666666666664,155.0,Average
+Female,Group E,Associate'S Degree,Free/Reduced,None,73.0,76.0,78.0,75.66666666666667,227.0,Good
+Female,Group C,Bachelor'S Degree,Free/Reduced,Completed,66.0,74.0,81.0,73.66666666666667,221.0,Good
+Female,Group D,Associate'S Degree,Standard,None,77.0,77.0,73.0,75.66666666666667,227.0,Good
+Female,Group C,Some High School,Standard,None,49.0,63.0,56.0,56.0,168.0,Average
+Female,Group D,Some College,Free/Reduced,None,79.0,89.0,86.0,84.66666666666667,254.0,Excellent
+Female,Group C,Associate'S Degree,Standard,Completed,75.0,82.0,90.0,82.33333333333333,247.0,Excellent
+Female,Group A,Bachelor'S Degree,Standard,None,59.0,72.0,70.0,67.0,201.0,Good
+Female,Group D,Associate'S Degree,Standard,Completed,57.0,78.0,79.0,71.33333333333333,214.0,Good
+Male,Group C,High School,Free/Reduced,None,66.0,66.0,59.0,63.666666666666664,191.0,Good
+Female,Group E,Bachelor'S Degree,Standard,Completed,79.0,81.0,82.0,80.66666666666667,242.0,Excellent
+Female,Group B,Some High School,Standard,None,57.0,67.0,72.0,65.33333333333333,196.0,Good
+Male,Group A,Bachelor'S Degree,Standard,Completed,87.0,84.0,87.0,86.0,258.0,Excellent
+Female,Group D,Some College,Standard,None,63.0,64.0,67.0,64.66666666666667,194.0,Good
+Female,Group B,Some High School,Free/Reduced,Completed,59.0,63.0,64.0,62.0,186.0,Good
+Male,Group A,Bachelor'S Degree,Free/Reduced,None,62.0,72.0,65.0,66.33333333333333,199.0,Good
+Male,Group D,High School,Standard,None,46.0,34.0,36.0,38.666666666666664,116.0,Needs Improvement
+Male,Group C,Some College,Standard,None,66.0,59.0,52.0,59.0,177.0,Average
+Male,Group D,High School,Standard,None,89.0,87.0,79.0,85.0,255.0,Excellent
+Female,Group D,Associate'S Degree,Free/Reduced,Completed,42.0,61.0,58.0,53.666666666666664,161.0,Average
+Male,Group C,Some College,Standard,Completed,93.0,84.0,90.0,89.0,267.0,Excellent
+Female,Group E,Some High School,Standard,Completed,80.0,85.0,85.0,83.33333333333333,250.0,Excellent
+Female,Group D,Some College,Standard,None,98.0,100.0,99.0,99.0,297.0,Excellent
+Male,Group D,Master'S Degree,Standard,None,81.0,81.0,84.0,82.0,246.0,Excellent
+Female,Group B,Some High School,Standard,Completed,60.0,70.0,74.0,68.0,204.0,Good
+Female,Group B,Associate'S Degree,Free/Reduced,Completed,76.0,94.0,87.0,85.66666666666667,257.0,Excellent
+Male,Group C,Associate'S Degree,Standard,Completed,73.0,78.0,72.0,74.33333333333333,223.0,Good
+Female,Group C,Associate'S Degree,Standard,Completed,96.0,96.0,99.0,97.0,291.0,Excellent
+Female,Group C,High School,Standard,None,76.0,76.0,74.0,75.33333333333333,226.0,Good
+Male,Group E,Associate'S Degree,Free/Reduced,Completed,91.0,73.0,80.0,81.33333333333333,244.0,Excellent
+Female,Group C,Some College,Free/Reduced,None,62.0,72.0,70.0,68.0,204.0,Good
+Male,Group D,Some High School,Free/Reduced,Completed,55.0,59.0,59.0,57.666666666666664,173.0,Average
+Female,Group B,Some High School,Free/Reduced,Completed,74.0,90.0,88.0,84.0,252.0,Excellent
+Male,Group C,High School,Standard,None,50.0,48.0,42.0,46.666666666666664,140.0,Average
+Male,Group B,Some College,Standard,None,47.0,43.0,41.0,43.666666666666664,131.0,Average
+Male,Group E,Some College,Standard,Completed,81.0,74.0,71.0,75.33333333333333,226.0,Good
+Female,Group E,Associate'S Degree,Standard,Completed,65.0,75.0,77.0,72.33333333333333,217.0,Good
+Male,Group E,Some High School,Standard,Completed,68.0,51.0,57.0,58.666666666666664,176.0,Average
+Female,Group D,High School,Free/Reduced,None,73.0,92.0,84.0,83.0,249.0,Excellent
+Male,Group C,Some College,Standard,None,53.0,39.0,37.0,43.0,129.0,Average
+Female,Group B,Associate'S Degree,Free/Reduced,Completed,68.0,77.0,80.0,75.0,225.0,Good
+Male,Group A,Some High School,Free/Reduced,None,55.0,46.0,43.0,48.0,144.0,Average
+Female,Group C,Some College,Standard,Completed,87.0,89.0,94.0,90.0,270.0,Excellent
+Male,Group D,Some High School,Standard,None,55.0,47.0,44.0,48.666666666666664,146.0,Average
+Female,Group E,Some College,Free/Reduced,None,53.0,58.0,57.0,56.0,168.0,Average
+Male,Group C,Master'S Degree,Standard,None,67.0,57.0,59.0,61.0,183.0,Good
+Male,Group C,Associate'S Degree,Standard,None,92.0,79.0,84.0,85.0,255.0,Excellent
+Female,Group B,Some College,Free/Reduced,Completed,53.0,66.0,73.0,64.0,192.0,Good
+Male,Group D,Associate'S Degree,Standard,None,81.0,71.0,73.0,75.0,225.0,Good
+Male,Group C,High School,Free/Reduced,None,61.0,60.0,55.0,58.666666666666664,176.0,Average
+Male,Group D,Bachelor'S Degree,Standard,None,80.0,73.0,72.0,75.0,225.0,Good
+Female,Group A,Associate'S Degree,Free/Reduced,None,37.0,57.0,56.0,50.0,150.0,Average
+Female,Group C,High School,Standard,None,81.0,84.0,82.0,82.33333333333333,247.0,Excellent
+Female,Group C,Associate'S Degree,Standard,Completed,59.0,73.0,72.0,68.0,204.0,Good
+Male,Group B,Some College,Free/Reduced,None,55.0,55.0,47.0,52.333333333333336,157.0,Average
+Male,Group D,Associate'S Degree,Standard,None,72.0,79.0,74.0,75.0,225.0,Good
+Male,Group D,High School,Standard,None,69.0,75.0,71.0,71.66666666666667,215.0,Good
+Male,Group C,Some College,Standard,None,69.0,64.0,68.0,67.0,201.0,Good
+Female,Group C,Bachelor'S Degree,Free/Reduced,None,50.0,60.0,59.0,56.333333333333336,169.0,Average
+Male,Group B,Some College,Standard,Completed,87.0,84.0,86.0,85.66666666666667,257.0,Excellent
+Male,Group D,Some High School,Standard,Completed,71.0,69.0,68.0,69.33333333333333,208.0,Good
+Male,Group E,Some College,Standard,None,68.0,72.0,65.0,68.33333333333333,205.0,Good
+Male,Group C,Master'S Degree,Free/Reduced,Completed,79.0,77.0,75.0,77.0,231.0,Good
+Female,Group C,Some High School,Standard,Completed,77.0,90.0,85.0,84.0,252.0,Excellent
+Male,Group C,Associate'S Degree,Free/Reduced,None,58.0,55.0,53.0,55.333333333333336,166.0,Average
+Female,Group E,Associate'S Degree,Standard,None,84.0,95.0,92.0,90.33333333333333,271.0,Excellent
+Male,Group D,Some College,Standard,None,55.0,58.0,52.0,55.0,165.0,Average
+Male,Group E,Bachelor'S Degree,Free/Reduced,Completed,70.0,68.0,72.0,70.0,210.0,Good
+Female,Group D,Some College,Free/Reduced,Completed,52.0,59.0,65.0,58.666666666666664,176.0,Average
+Male,Group B,Some College,Standard,Completed,69.0,77.0,77.0,74.33333333333333,223.0,Good
+Female,Group C,High School,Free/Reduced,None,53.0,72.0,64.0,63.0,189.0,Good
+Female,Group D,Some High School,Standard,None,48.0,58.0,54.0,53.333333333333336,160.0,Average
+Male,Group D,Some High School,Standard,Completed,78.0,81.0,86.0,81.66666666666667,245.0,Excellent
+Female,Group B,High School,Standard,None,62.0,62.0,63.0,62.333333333333336,187.0,Good
+Male,Group D,Some College,Standard,None,60.0,63.0,59.0,60.666666666666664,182.0,Good
+Female,Group B,High School,Standard,None,74.0,72.0,72.0,72.66666666666667,218.0,Good
+Female,Group C,High School,Standard,Completed,58.0,75.0,77.0,70.0,210.0,Good
+Male,Group B,High School,Standard,Completed,76.0,62.0,60.0,66.0,198.0,Good
+Female,Group D,Some High School,Standard,None,68.0,71.0,75.0,71.33333333333333,214.0,Good
+Male,Group A,Some College,Free/Reduced,None,58.0,60.0,57.0,58.333333333333336,175.0,Average
+Male,Group B,High School,Standard,None,52.0,48.0,49.0,49.666666666666664,149.0,Average
+Male,Group D,Bachelor'S Degree,Standard,None,75.0,73.0,74.0,74.0,222.0,Good
+Female,Group B,Some High School,Free/Reduced,Completed,52.0,67.0,72.0,63.666666666666664,191.0,Good
+Female,Group C,Bachelor'S Degree,Free/Reduced,None,62.0,78.0,79.0,73.0,219.0,Good
+Male,Group B,Some College,Standard,None,66.0,65.0,60.0,63.666666666666664,191.0,Good
+Female,Group B,Some High School,Free/Reduced,None,49.0,58.0,55.0,54.0,162.0,Average
+Female,Group B,High School,Standard,None,66.0,72.0,70.0,69.33333333333333,208.0,Good
+Female,Group C,Some College,Free/Reduced,None,35.0,44.0,43.0,40.666666666666664,122.0,Average
+Female,Group A,Some College,Standard,Completed,72.0,79.0,82.0,77.66666666666667,233.0,Good
+Male,Group E,Associate'S Degree,Standard,Completed,94.0,85.0,82.0,87.0,261.0,Excellent
+Female,Group D,Associate'S Degree,Free/Reduced,None,46.0,56.0,57.0,53.0,159.0,Average
+Female,Group B,Master'S Degree,Standard,None,77.0,90.0,84.0,83.66666666666667,251.0,Excellent
+Female,Group B,High School,Free/Reduced,Completed,76.0,85.0,82.0,81.0,243.0,Excellent
+Female,Group C,Associate'S Degree,Standard,Completed,52.0,59.0,62.0,57.666666666666664,173.0,Average
+Male,Group C,Bachelor'S Degree,Standard,Completed,91.0,81.0,79.0,83.66666666666667,251.0,Excellent
+Female,Group B,Some High School,Standard,Completed,32.0,51.0,44.0,42.333333333333336,127.0,Average
+Female,Group E,Some High School,Free/Reduced,None,72.0,79.0,77.0,76.0,228.0,Good
+Female,Group B,Some College,Standard,None,19.0,38.0,32.0,29.666666666666668,89.0,Needs Improvement
+Male,Group C,Associate'S Degree,Free/Reduced,None,68.0,65.0,61.0,64.66666666666667,194.0,Good
+Female,Group C,Master'S Degree,Free/Reduced,None,52.0,65.0,61.0,59.333333333333336,178.0,Good
+Female,Group B,High School,Standard,None,48.0,62.0,60.0,56.666666666666664,170.0,Average
+Female,Group D,Some College,Free/Reduced,None,60.0,66.0,70.0,65.33333333333333,196.0,Good
+Male,Group D,High School,Free/Reduced,None,66.0,74.0,69.0,69.66666666666667,209.0,Good
+Male,Group E,Some High School,Standard,Completed,89.0,84.0,77.0,83.33333333333333,250.0,Excellent
+Female,Group B,High School,Standard,None,42.0,52.0,51.0,48.333333333333336,145.0,Average
+Female,Group E,Associate'S Degree,Free/Reduced,Completed,57.0,68.0,73.0,66.0,198.0,Good
+Male,Group D,High School,Standard,None,70.0,70.0,70.0,70.0,210.0,Good
+Female,Group E,Associate'S Degree,Free/Reduced,None,70.0,84.0,81.0,78.33333333333333,235.0,Good
+Male,Group E,Some College,Standard,None,69.0,60.0,54.0,61.0,183.0,Good
+Female,Group C,Associate'S Degree,Standard,None,52.0,55.0,57.0,54.666666666666664,164.0,Average
+Male,Group C,Some High School,Standard,Completed,67.0,73.0,68.0,69.33333333333333,208.0,Good
+Male,Group C,Some High School,Standard,Completed,76.0,80.0,73.0,76.33333333333333,229.0,Good
+Female,Group E,Associate'S Degree,Standard,None,87.0,94.0,95.0,92.0,276.0,Excellent
+Female,Group B,Some College,Standard,None,82.0,85.0,87.0,84.66666666666667,254.0,Excellent
+Female,Group C,Some College,Standard,None,73.0,76.0,78.0,75.66666666666667,227.0,Good
+Male,Group A,Some College,Free/Reduced,None,75.0,81.0,74.0,76.66666666666667,230.0,Good
+Female,Group D,Some College,Free/Reduced,None,64.0,74.0,75.0,71.0,213.0,Good
+Female,Group E,High School,Free/Reduced,None,41.0,45.0,40.0,42.0,126.0,Average
+Male,Group C,High School,Standard,None,90.0,75.0,69.0,78.0,234.0,Good
+Male,Group B,Bachelor'S Degree,Standard,None,59.0,54.0,51.0,54.666666666666664,164.0,Average
+Male,Group A,Some High School,Standard,None,51.0,31.0,36.0,39.333333333333336,118.0,Average
+Male,Group A,High School,Free/Reduced,None,45.0,47.0,49.0,47.0,141.0,Average
+Female,Group C,Master'S Degree,Standard,Completed,54.0,64.0,67.0,61.666666666666664,185.0,Good
+Male,Group E,Some High School,Standard,Completed,87.0,84.0,76.0,82.33333333333333,247.0,Excellent
+Female,Group C,High School,Standard,None,72.0,80.0,83.0,78.33333333333333,235.0,Good
+Male,Group B,Some High School,Standard,Completed,94.0,86.0,87.0,89.0,267.0,Excellent
+Female,Group A,Bachelor'S Degree,Standard,None,45.0,59.0,64.0,56.0,168.0,Average
+Male,Group D,Bachelor'S Degree,Free/Reduced,Completed,61.0,70.0,76.0,69.0,207.0,Good
+Female,Group B,High School,Free/Reduced,None,60.0,72.0,68.0,66.66666666666667,200.0,Good
+Female,Group C,Some High School,Standard,None,77.0,91.0,88.0,85.33333333333333,256.0,Excellent
+Female,Group A,Some High School,Standard,Completed,85.0,90.0,92.0,89.0,267.0,Excellent
+Female,Group D,Bachelor'S Degree,Free/Reduced,None,78.0,90.0,93.0,87.0,261.0,Excellent
+Male,Group E,Some College,Free/Reduced,Completed,49.0,52.0,51.0,50.666666666666664,152.0,Average
+Female,Group B,High School,Free/Reduced,None,71.0,87.0,82.0,80.0,240.0,Excellent
+Female,Group C,Some High School,Free/Reduced,None,48.0,58.0,52.0,52.666666666666664,158.0,Average
+Male,Group C,High School,Standard,None,62.0,67.0,58.0,62.333333333333336,187.0,Good
+Female,Group C,Associate'S Degree,Free/Reduced,Completed,56.0,68.0,70.0,64.66666666666667,194.0,Good
+Female,Group C,Some High School,Standard,None,65.0,69.0,76.0,70.0,210.0,Good
+Female,Group D,Some High School,Free/Reduced,Completed,69.0,86.0,81.0,78.66666666666667,236.0,Good
+Male,Group B,Some High School,Standard,None,68.0,54.0,53.0,58.333333333333336,175.0,Average
+Female,Group A,Some College,Free/Reduced,None,61.0,60.0,57.0,59.333333333333336,178.0,Good
+Female,Group C,Bachelor'S Degree,Free/Reduced,Completed,74.0,86.0,89.0,83.0,249.0,Excellent
+Male,Group A,Bachelor'S Degree,Standard,None,64.0,60.0,58.0,60.666666666666664,182.0,Good
+Female,Group B,High School,Standard,Completed,77.0,82.0,89.0,82.66666666666667,248.0,Excellent
+Male,Group B,Some College,Standard,None,58.0,50.0,45.0,51.0,153.0,Average
+Female,Group C,High School,Standard,Completed,60.0,64.0,74.0,66.0,198.0,Good
+Male,Group E,High School,Standard,None,73.0,64.0,57.0,64.66666666666667,194.0,Good
+Female,Group A,High School,Standard,Completed,75.0,82.0,79.0,78.66666666666667,236.0,Good
+Male,Group B,Associate'S Degree,Free/Reduced,Completed,58.0,57.0,53.0,56.0,168.0,Average
+Female,Group C,Associate'S Degree,Standard,None,66.0,77.0,73.0,72.0,216.0,Good
+Female,Group D,High School,Free/Reduced,None,39.0,52.0,46.0,45.666666666666664,137.0,Average
+Male,Group C,Some High School,Standard,None,64.0,58.0,51.0,57.666666666666664,173.0,Average
+Female,Group B,High School,Free/Reduced,Completed,23.0,44.0,36.0,34.333333333333336,103.0,Needs Improvement
+Male,Group B,Some College,Free/Reduced,Completed,74.0,77.0,76.0,75.66666666666667,227.0,Good
+Female,Group D,Some High School,Free/Reduced,Completed,40.0,65.0,64.0,56.333333333333336,169.0,Average
+Male,Group E,Master'S Degree,Standard,None,90.0,85.0,84.0,86.33333333333333,259.0,Excellent
+Male,Group C,Master'S Degree,Standard,Completed,91.0,85.0,85.0,87.0,261.0,Excellent
+Male,Group D,High School,Standard,None,64.0,54.0,50.0,56.0,168.0,Average
+Female,Group C,High School,Standard,None,59.0,72.0,68.0,66.33333333333333,199.0,Good
+Male,Group D,Associate'S Degree,Standard,None,80.0,75.0,69.0,74.66666666666667,224.0,Good
+Male,Group C,Master'S Degree,Standard,None,71.0,67.0,67.0,68.33333333333333,205.0,Good
+Female,Group A,High School,Standard,None,61.0,68.0,63.0,64.0,192.0,Good
+Female,Group E,Some College,Standard,None,87.0,85.0,93.0,88.33333333333333,265.0,Excellent
+Male,Group E,Some High School,Standard,None,82.0,67.0,61.0,70.0,210.0,Good
+Male,Group C,Some High School,Standard,None,62.0,64.0,55.0,60.333333333333336,181.0,Good
+Female,Group B,Bachelor'S Degree,Standard,None,97.0,97.0,96.0,96.66666666666667,290.0,Excellent
+Male,Group B,Some College,Free/Reduced,None,75.0,68.0,65.0,69.33333333333333,208.0,Good
+Female,Group C,Bachelor'S Degree,Standard,None,65.0,79.0,81.0,75.0,225.0,Good
+Male,Group B,High School,Standard,Completed,52.0,49.0,46.0,49.0,147.0,Average
+Male,Group C,Associate'S Degree,Free/Reduced,None,87.0,73.0,72.0,77.33333333333333,232.0,Good
+Female,Group C,Associate'S Degree,Standard,None,53.0,62.0,53.0,56.0,168.0,Average
+Female,Group E,Master'S Degree,Free/Reduced,None,81.0,86.0,87.0,84.66666666666667,254.0,Excellent
+Male,Group D,Bachelor'S Degree,Free/Reduced,Completed,39.0,42.0,38.0,39.666666666666664,119.0,Average
+Female,Group C,Some College,Standard,Completed,71.0,71.0,80.0,74.0,222.0,Good
+Male,Group C,Associate'S Degree,Standard,None,97.0,93.0,91.0,93.66666666666667,281.0,Excellent
+Male,Group D,Some College,Standard,Completed,82.0,82.0,88.0,84.0,252.0,Excellent
+Male,Group C,High School,Free/Reduced,None,59.0,53.0,52.0,54.666666666666664,164.0,Average
+Male,Group B,Associate'S Degree,Standard,None,61.0,42.0,41.0,48.0,144.0,Average
+Male,Group E,Associate'S Degree,Free/Reduced,Completed,78.0,74.0,72.0,74.66666666666667,224.0,Good
+Male,Group C,Associate'S Degree,Free/Reduced,None,49.0,51.0,51.0,50.333333333333336,151.0,Average
+Male,Group B,High School,Standard,None,59.0,58.0,47.0,54.666666666666664,164.0,Average
+Female,Group C,Some College,Standard,Completed,70.0,72.0,76.0,72.66666666666667,218.0,Good
+Male,Group B,Associate'S Degree,Standard,Completed,82.0,84.0,78.0,81.33333333333333,244.0,Excellent
+Male,Group E,Associate'S Degree,Free/Reduced,None,90.0,90.0,82.0,87.33333333333333,262.0,Excellent
+Female,Group C,Bachelor'S Degree,Free/Reduced,None,43.0,62.0,61.0,55.333333333333336,166.0,Average
+Male,Group C,Some College,Free/Reduced,None,80.0,64.0,66.0,70.0,210.0,Good
+Male,Group D,Some College,Standard,None,81.0,82.0,84.0,82.33333333333333,247.0,Excellent
+Male,Group C,Some High School,Standard,None,57.0,61.0,54.0,57.333333333333336,172.0,Average
+Female,Group D,Some High School,Standard,None,59.0,72.0,80.0,70.33333333333333,211.0,Good
+Female,Group D,Associate'S Degree,Standard,None,64.0,76.0,74.0,71.33333333333333,214.0,Good
+Male,Group C,Bachelor'S Degree,Standard,Completed,63.0,64.0,66.0,64.33333333333333,193.0,Good
+Female,Group E,Bachelor'S Degree,Standard,Completed,71.0,70.0,70.0,70.33333333333333,211.0,Good
+Female,Group B,High School,Free/Reduced,None,64.0,73.0,71.0,69.33333333333333,208.0,Good
+Male,Group D,Bachelor'S Degree,Free/Reduced,None,55.0,46.0,44.0,48.333333333333336,145.0,Average
+Female,Group E,Associate'S Degree,Standard,None,51.0,51.0,54.0,52.0,156.0,Average
+Female,Group C,Associate'S Degree,Standard,Completed,62.0,76.0,80.0,72.66666666666667,218.0,Good
+Female,Group E,Associate'S Degree,Standard,Completed,93.0,100.0,95.0,96.0,288.0,Excellent
+Male,Group C,High School,Free/Reduced,None,54.0,72.0,59.0,61.666666666666664,185.0,Good
+Female,Group D,Some College,Free/Reduced,None,69.0,65.0,74.0,69.33333333333333,208.0,Good
+Male,Group D,High School,Free/Reduced,None,44.0,51.0,48.0,47.666666666666664,143.0,Average
+Female,Group E,Some College,Standard,Completed,86.0,85.0,91.0,87.33333333333333,262.0,Excellent
+Female,Group E,Associate'S Degree,Standard,None,85.0,92.0,85.0,87.33333333333333,262.0,Excellent
+Female,Group A,Master'S Degree,Free/Reduced,None,50.0,67.0,73.0,63.333333333333336,190.0,Good
+Male,Group D,Some High School,Standard,Completed,88.0,74.0,75.0,79.0,237.0,Good
+Female,Group E,Associate'S Degree,Standard,None,59.0,62.0,69.0,63.333333333333336,190.0,Good
+Female,Group E,Some High School,Free/Reduced,None,32.0,34.0,38.0,34.666666666666664,104.0,Needs Improvement
+Male,Group B,High School,Free/Reduced,None,36.0,29.0,27.0,30.666666666666668,92.0,Needs Improvement
+Female,Group B,Some High School,Free/Reduced,Completed,63.0,78.0,79.0,73.33333333333333,220.0,Good
+Male,Group D,Associate'S Degree,Standard,Completed,67.0,54.0,63.0,61.333333333333336,184.0,Good
+Female,Group D,Some High School,Standard,Completed,65.0,78.0,82.0,75.0,225.0,Good
+Male,Group D,Master'S Degree,Standard,None,85.0,84.0,89.0,86.0,258.0,Excellent
+Female,Group C,Master'S Degree,Standard,None,73.0,78.0,74.0,75.0,225.0,Good
+Female,Group A,High School,Free/Reduced,Completed,34.0,48.0,41.0,41.0,123.0,Average
+Female,Group D,Bachelor'S Degree,Free/Reduced,Completed,93.0,100.0,100.0,97.66666666666667,293.0,Excellent
+Female,Group D,Some High School,Free/Reduced,None,67.0,84.0,84.0,78.33333333333333,235.0,Good
+Male,Group D,Some College,Standard,None,88.0,77.0,77.0,80.66666666666667,242.0,Excellent
+Male,Group B,High School,Standard,None,57.0,48.0,51.0,52.0,156.0,Average
+Female,Group D,Some College,Standard,Completed,79.0,84.0,91.0,84.66666666666667,254.0,Excellent
+Female,Group C,Bachelor'S Degree,Free/Reduced,None,67.0,75.0,72.0,71.33333333333333,214.0,Good
+Male,Group E,Bachelor'S Degree,Standard,Completed,70.0,64.0,70.0,68.0,204.0,Good
+Male,Group D,Bachelor'S Degree,Free/Reduced,None,50.0,42.0,48.0,46.666666666666664,140.0,Average
+Female,Group A,Some College,Standard,None,69.0,84.0,82.0,78.33333333333333,235.0,Good
+Female,Group C,Bachelor'S Degree,Standard,Completed,52.0,61.0,66.0,59.666666666666664,179.0,Good
+Female,Group C,Bachelor'S Degree,Free/Reduced,Completed,47.0,62.0,66.0,58.333333333333336,175.0,Average
+Female,Group B,Associate'S Degree,Free/Reduced,None,46.0,61.0,55.0,54.0,162.0,Average
+Female,Group E,Some College,Standard,None,68.0,70.0,66.0,68.0,204.0,Good
+Male,Group E,Bachelor'S Degree,Standard,Completed,100.0,100.0,100.0,100.0,300.0,Excellent
+Female,Group C,High School,Standard,None,44.0,61.0,52.0,52.333333333333336,157.0,Average
+Female,Group C,Associate'S Degree,Standard,Completed,57.0,77.0,80.0,71.33333333333333,214.0,Good
+Male,Group B,Some College,Standard,Completed,91.0,96.0,91.0,92.66666666666667,278.0,Excellent
+Male,Group D,High School,Free/Reduced,None,69.0,70.0,67.0,68.66666666666667,206.0,Good
+Female,Group C,High School,Free/Reduced,None,35.0,53.0,46.0,44.666666666666664,134.0,Average
+Male,Group D,High School,Standard,None,72.0,66.0,66.0,68.0,204.0,Good
+Female,Group B,Associate'S Degree,Free/Reduced,None,54.0,65.0,65.0,61.333333333333336,184.0,Good
+Male,Group D,High School,Free/Reduced,None,74.0,70.0,69.0,71.0,213.0,Good
+Male,Group E,Some High School,Standard,Completed,74.0,64.0,60.0,66.0,198.0,Good
+Male,Group E,Associate'S Degree,Free/Reduced,None,64.0,56.0,52.0,57.333333333333336,172.0,Average
+Female,Group D,High School,Free/Reduced,Completed,65.0,61.0,71.0,65.66666666666667,197.0,Good
+Male,Group E,Associate'S Degree,Free/Reduced,Completed,46.0,43.0,44.0,44.333333333333336,133.0,Average
+Female,Group C,Some High School,Free/Reduced,None,48.0,56.0,51.0,51.666666666666664,155.0,Average
+Male,Group C,Some College,Free/Reduced,Completed,67.0,74.0,70.0,70.33333333333333,211.0,Good
+Male,Group D,Some College,Free/Reduced,None,62.0,57.0,62.0,60.333333333333336,181.0,Good
+Male,Group D,Associate'S Degree,Free/Reduced,Completed,61.0,71.0,73.0,68.33333333333333,205.0,Good
+Male,Group C,Bachelor'S Degree,Free/Reduced,Completed,70.0,75.0,74.0,73.0,219.0,Good
+Male,Group C,Associate'S Degree,Standard,Completed,98.0,87.0,90.0,91.66666666666667,275.0,Excellent
+Male,Group D,Some College,Free/Reduced,None,70.0,63.0,58.0,63.666666666666664,191.0,Good
+Male,Group A,Associate'S Degree,Standard,None,67.0,57.0,53.0,59.0,177.0,Average
+Female,Group E,High School,Free/Reduced,None,57.0,58.0,57.0,57.333333333333336,172.0,Average
+Male,Group D,Some College,Standard,Completed,85.0,81.0,85.0,83.66666666666667,251.0,Excellent
+Male,Group D,Some High School,Standard,Completed,77.0,68.0,69.0,71.33333333333333,214.0,Good
+Male,Group C,Master'S Degree,Free/Reduced,Completed,72.0,66.0,72.0,70.0,210.0,Good
+Female,Group D,Master'S Degree,Standard,None,78.0,91.0,96.0,88.33333333333333,265.0,Excellent
+Male,Group C,High School,Standard,None,81.0,66.0,64.0,70.33333333333333,211.0,Good
+Male,Group A,Some High School,Free/Reduced,Completed,61.0,62.0,61.0,61.333333333333336,184.0,Good
+Female,Group B,High School,Standard,None,58.0,68.0,61.0,62.333333333333336,187.0,Good
+Female,Group C,Associate'S Degree,Standard,None,54.0,61.0,58.0,57.666666666666664,173.0,Average
+Male,Group B,High School,Standard,None,82.0,82.0,80.0,81.33333333333333,244.0,Excellent
+Female,Group D,Some College,Free/Reduced,None,49.0,58.0,60.0,55.666666666666664,167.0,Average
+Male,Group B,Some High School,Free/Reduced,Completed,49.0,50.0,52.0,50.333333333333336,151.0,Average
+Female,Group E,High School,Free/Reduced,Completed,57.0,75.0,73.0,68.33333333333333,205.0,Good
+Male,Group E,High School,Standard,None,94.0,73.0,71.0,79.33333333333333,238.0,Excellent
+Female,Group D,Some College,Standard,Completed,75.0,77.0,83.0,78.33333333333333,235.0,Good
+Female,Group E,Some High School,Free/Reduced,None,74.0,74.0,72.0,73.33333333333333,220.0,Good
+Male,Group C,High School,Standard,Completed,58.0,52.0,54.0,54.666666666666664,164.0,Average
+Female,Group C,Some College,Standard,None,62.0,69.0,69.0,66.66666666666667,200.0,Good
+Male,Group E,Associate'S Degree,Standard,None,72.0,57.0,62.0,63.666666666666664,191.0,Good
+Male,Group C,Some College,Standard,None,84.0,87.0,81.0,84.0,252.0,Excellent
+Female,Group D,Master'S Degree,Standard,None,92.0,100.0,100.0,97.33333333333333,292.0,Excellent
+Female,Group D,High School,Standard,None,45.0,63.0,59.0,55.666666666666664,167.0,Average
+Male,Group C,High School,Standard,None,75.0,81.0,71.0,75.66666666666667,227.0,Good
+Female,Group A,Some College,Standard,None,56.0,58.0,64.0,59.333333333333336,178.0,Good
+Female,Group D,Some High School,Free/Reduced,None,48.0,54.0,53.0,51.666666666666664,155.0,Average
+Female,Group E,Associate'S Degree,Standard,None,100.0,100.0,100.0,100.0,300.0,Excellent
+Female,Group C,Some High School,Free/Reduced,Completed,65.0,76.0,75.0,72.0,216.0,Good
+Male,Group D,Some College,Standard,None,72.0,57.0,58.0,62.333333333333336,187.0,Good
+Female,Group D,Some College,Standard,None,62.0,70.0,72.0,68.0,204.0,Good
+Male,Group A,Some High School,Standard,Completed,66.0,68.0,64.0,66.0,198.0,Good
+Male,Group C,Some College,Standard,None,63.0,63.0,60.0,62.0,186.0,Good
+Female,Group E,Associate'S Degree,Standard,None,68.0,76.0,67.0,70.33333333333333,211.0,Good
+Female,Group B,Bachelor'S Degree,Standard,None,75.0,84.0,80.0,79.66666666666667,239.0,Excellent
+Female,Group D,Bachelor'S Degree,Standard,None,89.0,100.0,100.0,96.33333333333333,289.0,Excellent
+Male,Group C,Some High School,Standard,Completed,78.0,72.0,69.0,73.0,219.0,Good
+Female,Group A,High School,Free/Reduced,Completed,53.0,50.0,60.0,54.333333333333336,163.0,Average
+Female,Group D,Some College,Free/Reduced,None,49.0,65.0,61.0,58.333333333333336,175.0,Average
+Female,Group A,Some College,Standard,None,54.0,63.0,67.0,61.333333333333336,184.0,Good
+Female,Group C,Some College,Standard,Completed,64.0,82.0,77.0,74.33333333333333,223.0,Good
+Male,Group B,Some College,Free/Reduced,Completed,60.0,62.0,60.0,60.666666666666664,182.0,Good
+Male,Group C,Associate'S Degree,Standard,None,62.0,65.0,58.0,61.666666666666664,185.0,Good
+Male,Group D,High School,Standard,Completed,55.0,41.0,48.0,48.0,144.0,Average
+Female,Group C,Associate'S Degree,Standard,None,91.0,95.0,94.0,93.33333333333333,280.0,Excellent
+Female,Group B,High School,Free/Reduced,None,8.0,24.0,23.0,18.333333333333332,55.0,Needs Improvement
+Male,Group D,Some High School,Standard,None,81.0,78.0,78.0,79.0,237.0,Good
+Male,Group B,Some High School,Standard,Completed,79.0,85.0,86.0,83.33333333333333,250.0,Excellent
+Female,Group A,Some College,Standard,Completed,78.0,87.0,91.0,85.33333333333333,256.0,Excellent
+Female,Group C,Some High School,Standard,None,74.0,75.0,82.0,77.0,231.0,Good
+Male,Group A,High School,Standard,None,57.0,51.0,54.0,54.0,162.0,Average
+Female,Group C,Associate'S Degree,Standard,None,40.0,59.0,51.0,50.0,150.0,Average
+Male,Group E,Some High School,Standard,Completed,81.0,75.0,76.0,77.33333333333333,232.0,Good
+Female,Group A,Some High School,Free/Reduced,None,44.0,45.0,45.0,44.666666666666664,134.0,Average
+Female,Group D,Some College,Free/Reduced,Completed,67.0,86.0,83.0,78.66666666666667,236.0,Good
+Male,Group E,High School,Free/Reduced,Completed,86.0,81.0,75.0,80.66666666666667,242.0,Excellent
+Female,Group B,Some High School,Standard,Completed,65.0,82.0,78.0,75.0,225.0,Good
+Female,Group D,Associate'S Degree,Free/Reduced,None,55.0,76.0,76.0,69.0,207.0,Good
+Female,Group D,Bachelor'S Degree,Free/Reduced,None,62.0,72.0,74.0,69.33333333333333,208.0,Good
+Male,Group A,High School,Standard,None,63.0,63.0,62.0,62.666666666666664,188.0,Good
+Female,Group E,Master'S Degree,Standard,Completed,88.0,99.0,95.0,94.0,282.0,Excellent
+Male,Group C,High School,Free/Reduced,None,62.0,55.0,55.0,57.333333333333336,172.0,Average
+Female,Group C,High School,Free/Reduced,Completed,59.0,71.0,65.0,65.0,195.0,Good
+Female,Group D,Some College,Standard,Completed,68.0,78.0,77.0,74.33333333333333,223.0,Good
+Female,Group D,Some College,Free/Reduced,None,77.0,86.0,86.0,83.0,249.0,Excellent
