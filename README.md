@@ -85,3 +85,13 @@ This project demonstrates how data analysis and Machine Learning can be used to 
 ## Author
 
 Student Performance Prediction using Machine Learning – Academic Project
+
+
+
+## Project Workflow
+
+- Dataset collection and preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Training and comparing machine learning models
+- Evaluating model performance
